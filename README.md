@@ -1,7 +1,7 @@
 # 🚀 Power BI Project: Interactive Economic Insights Dashboard
 
-> **Author**: [Your Name]  
-> **Date**: [Insert Date]  
+> **Author**: Haseeb Arshad  
+> **Date**: 3rd July 2025  
 > **Tool Used**: Power BI Desktop  
 > **Data Type**: Country-wise Economic Indicators (GDP)  
 
