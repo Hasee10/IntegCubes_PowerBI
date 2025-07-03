@@ -1,0 +1,2251 @@
+Country,Sector,Indicator,Year,Value
+USA,Agriculture,GDP,2015,5663.27
+USA,Agriculture,GDP,2016,3366.2
+USA,Agriculture,GDP,2017,7721.87
+USA,agriculture,GDP,2018,7975.03
+USA,Agriculture,GDP,2019,8814.95
+USA,Agriculture,GDP,2020,1095.99
+USA,Agriculture,GDP,2021,9244.44
+USA,Agriculture,GDP,2022,2315.47
+USA,Agriculture,GDP,2023,315.78
+USA,Agriculture,Inflation,2015,11.17
+USA,Agriculture,Inflation,2016,1.19
+USA,Agriculture,Inflation,2017,11.31
+USA,Agriculture,Inflation,2018,11.14
+USA,Agriculture,Inflation,2019,13.85
+USA,Agriculture,Inflation,2020,6.43
+USA,Agriculture,Inflation,2021,3.37
+USA,Agriculture,Inflation,2022,
+USA,Agriculture,Inflation,2023,
+USA,Agriculture,Unemployment,2015,7119.12
+USA,Agriculture,Unemployment,2016,5701.83
+USA,Agriculture,Unemployment,2017,8008.65
+USA,Agriculture,Unemployment,2018,1165.1
+USA,Agriculture,Unemployment,2019,2677.95
+USA,Agriculture,Unemployment,2020,9136.98
+USA,Agriculture,Unemployment,2021,8468.31
+USA,Agriculture,Unemployment,2022,366.28
+USA,Agriculture,Unemployment,2023,4167.89
+USA,Agriculture,Export Value,2015,1777.38
+USA,Agriculture,Export Value,2016,8632.64
+USA,Agriculture,Export Value,2017,5011.63
+USA,Agriculture,Export Value,2018,
+USA,Agriculture,Export Value,2019,7663.2
+USA,Agriculture,Export Value,2020,2152.26
+USA,Agriculture,Export Value,2021,6774.62
+USA,Agriculture,Export Value,2022,2041.1
+USA,Agriculture,Export Value,2023,7227.37
+USA,Agriculture,Import Value,2015,3640.51
+USA,Agriculture,Import Value,2016,9200.6
+USA,Agriculture,Import Value,2017,7724.42
+USA,Agriculture,Import Value,2018,4023.51
+USA,Agriculture,Import Value,2019,1543.23
+USA,Agriculture,Import Value,2020,1191.86
+USA,Agriculture,Import Value ,2021,6580.18
+USA,Agriculture,Import Value,2022,300.69
+USA,Agriculture,Import Value,2023,5572.15
+USA,Manufacturing,GDP,2015,
+USA,Manufacturing,GDP,2016,9014.65
+USA,Manufacturing,GDP,2017,2151.24
+USA,Manufacturing,GDP,2018,4832.57
+USA,Manufacturing,GDP,2019,4462.13
+USA,Manufacturing,GDP,2020,3169.54
+USA,Manufacturing,GDP,2021,4052.08
+USA,Manufacturing,GDP,2022,4972.12
+USA,Manufacturing,GDP,2023,5485.27
+USA,Manufacturing,Inflation,2015,0.76
+USA,Manufacturing,Inflation,2016,3.66
+USA,Manufacturing,Inflation,2017,8.71
+USA,manufacturing,Inflation,2018,13.45
+USA,Manufacturing,Inflation,2019,3.47
+USA,Manufacturing,Inflation,2020,6.05
+USA,Manufacturing,Inflation,2021,2.24
+USA,Manufacturing,Inflation,2022,2.05
+USA,Manufacturing,Inflation,2023,10.56
+USA,Manufacturing,Unemployment,2015,4432.23
+USA,Manufacturing,Unemployment,2016,1465.45
+USA,manufacturing,Unemployment,2017,1452.16
+USA,Manufacturing,Unemployment,2018,6975.08
+USA,Manufacturing,Unemployment,2019,3196.75
+USA,Manufacturing,Unemployment,2020,7401.27
+USA,Manufacturing,Unemployment,2021,650.47
+USA,Manufacturing,Unemployment,2022,7768.63
+USA,Manufacturing,Unemployment,2023,9743.89
+USA,Manufacturing,Export Value,2015,9370.53
+USA,Manufacturing,Export Value,2016,1797.85
+USA,Manufacturing,Export Value,2017,4717.89
+USA,Manufacturing,Export Value,2018,9487.11
+USA,Manufacturing,Export Value,2019,4622.59
+USA,Manufacturing,Export Value,2020,4921.15
+USA,Manufacturing,Export Value,2021,6905.45
+USA,Manufacturing,Export Value,2022,329.41
+USA,Manufacturing,Export Value,2023,8434.77
+USA,Manufacturing,Import Value,2015,4444.64
+USA,Manufacturing,Import Value,2016,1024.48
+USA,Manufacturing,Import Value,2017,819.45
+USA,Manufacturing,Import Value,2018,9734.08
+USA,Manufacturing,Import Value,2019,8387.56
+USA,Manufacturing,Import Value,2020,7645.18
+USA,Manufacturing,Import Value,2021,3169.07
+USA,Manufacturing,Import Value,2022,7612.78
+USA,Manufacturing,Import Value,2023,3415.1
+USA,Services,GDP,2015,7293.03
+USA,Services,GDP,2016,7133.53
+USA,Services,GDP,2017,1814.01
+USA,Services,GDP,2018,5818.74
+USA,Services,GDP,2019,
+USA,Services,GDP,2020,1457.82
+USA,Services,GDP,2021,8945.0
+USA,Services,GDP,2022,559.2
+USA,Services,GDP,2023,5230.85
+USA,Services,Inflation,2015,
+USA,Services,Inflation,2016,14.2
+USA,Services,Inflation,2017,0.73
+USA,Services,Inflation,2018,9.74
+USA,Services,Inflation,2019,
+USA,Services,Inflation,2020,4.32
+USA,Services,Inflation,2021,9.59
+USA,Services,Inflation,2022,6.98
+USA,Services,Inflation,2023,10.46
+USA,Services,Unemployment,2015,3407.12
+USA,Services,Unemployment,2016,2778.35
+USA,Services,Unemployment,2017,8592.75
+USA,Services,Unemployment,2018,
+USA,Services,Unemployment,2019,6416.5
+USA,Services,Unemployment,2020,4590.17
+USA,Services,Unemployment,2021,1446.79
+USA,Services,Unemployment,2022,1628.41
+USA,Services,Unemployment,2023,8264.25
+USA,Services,Export Value,2015,1133.69
+USA,Services,Export Value,2016,5438.13
+USA,Services,Export Value,2017,4327.83
+USA,Services,Export Value,2018,
+USA,Services,Export Value,2019,5378.42
+USA,Services,Export Value,2020,6979.91
+USA,Services,Export Value,2021,9079.16
+USA,Services,Export Value,2022,318.48
+USA,Services,Export Value,2023,6823.52
+USA,Services,Import Value,2015,5933.75
+USA,Services,Import Value,2016,8456.93
+USA,Services,Import Value,2017,9391.3
+USA,Services,Import Value,2018,4936.61
+USA,Services,Import Value,2019,3404.2
+USA,Services,Import Value,2020,6409.18
+USA,Services,Import Value,2021,9051.17
+USA,Services,Import Value,2022,6646.68
+USA,Services,Import Value,2023,494.81
+USA,Technology,GDP,2015,349.22
+USA,Technology,GDP,2016,2126.94
+USA,Technology,GDP,2017,4864.9
+USA,Technology,GDP,2018,9047.43
+USA,Technology,GDP,2019,6853.08
+USA,Technology,GDP,2020,9010.73
+USA,Technology,GDP,2021,
+USA,Technology,GDP,2022,9720.72
+USA,Technology,GDP,2023,7296.37
+USA,Technology,Inflation,2015,4.02
+USA,Technology,Inflation,2016,8.66
+USA,Technology,Inflation,2017,12.01
+USA,Technology,Inflation,2018,0.96
+USA,Technology,Inflation,2019,6.06
+USA,Technology,Inflation,2020,
+USA,Technology,Inflation,2021,11.42
+USA,Technology,Inflation,2022,0.98
+USA,Technology,Inflation,2023,12.83
+USA,Technology,Unemployment,2015,3906.82
+USA,Technology,Unemployment,2016,6834.38
+USA,Technology,Unemployment,2017,4139.78
+USA,Technology,Unemployment,2018,8461.69
+USA,Technology,Unemployment,2019,8285.61
+USA,Technology,Unemployment,2020,6611.3
+USA,Technology,Unemployment,2021,8783.13
+USA,Technology,Unemployment,2022,5343.92
+USA,Technology,Unemployment,2023,7711.51
+USA,Technology,Export Value,2015,3672.24
+USA,Technology,Export Value,2016,1931.87
+USA,Technology,Export Value,2017,6426.17
+USA,Technology,Export Value,2018,7077.7
+USA,Technology,Export Value,2019,7337.22
+USA,Technology,Export Value,2020,2501.23
+USA,Technology,Export Value,2021,5879.05
+USA,Technology,Export Value,2022,9033.54
+USA,Technology,Export Value,2023,4155.48
+USA,Technology,Import Value,2015,385.5
+USA,Technology,Import Value,2016,6635.17
+USA,Technology,Import Value,2017,5326.9
+USA,Technology,Import Value,2018,2304.18
+USA,Technology,Import Value,2019,8193.11
+USA,Technology,Import Value,2020,7802.94
+USA,Technology,Import Value,2021,9929.0
+USA,Technology,Import Value,2022,4093.31
+USA,Technology,Import Value,2023,9248.57
+USA,Energy,GDP,2015,2112.87
+USA,Energy,GDP,2016,5731.55
+USA,Energy,GDP,2017,3289.28
+USA,Energy,GDP,2018,1782.81
+USA,Energy,GDP,2019,6854.77
+USA,Energy,GDP,2020,2343.44
+USA,Energy,GDP,2021,4249.58
+USA,Energy,GDP,2022,9781.4
+USA,Energy,GDP,2023,2130.03
+USA,Energy,Inflation,2015,10.21
+USA,Energy,Inflation,2016,8.18
+USA,Energy,Inflation,2017,11.69
+USA,Energy,Inflation,2018,7.38
+USA,Energy,Inflation,2019,8.21
+USA,Energy,Inflation,2020,13.77
+USA,Energy,Inflation,2021,6.41
+USA,Energy,Inflation,2022,1.9
+USA,Energy,Inflation,2023,12.62
+USA,energy,Unemployment,2015,9785.88
+USA,Energy,Unemployment,2016,8593.22
+USA,Energy,Unemployment,2017,
+USA,Energy,Unemployment,2018,7040.83
+USA,Energy,Unemployment,2019,282.82
+USA,Energy,Unemployment,2020,3742.22
+USA,Energy,Unemployment,2021,
+USA,Energy,Unemployment,2022,
+USA,Energy,Unemployment,2023,623.68
+USA,Energy,Export Value,2015,
+USA,Energy,Export Value,2016,4510.27
+USA,Energy,Export Value,2017,5157.05
+USA,Energy,Export Value,2018,8414.11
+USA,Energy,Export Value,2019,7140.39
+USA,Energy,Export Value,2020,1977.14
+USA,Energy,Export Value,2021,8151.29
+USA,Energy,Export Value,2022,3303.34
+USA,Energy,Export Value,2023,1612.36
+USA,Energy,Import Value,2015,1640.46
+USA,Energy,Import Value,2016,2142.21
+USA,Energy,Import Value,2017,5228.71
+USA,Energy,Import Value,2018,7880.68
+USA,Energy,Import Value,2019,
+USA,Energy,Import Value,2020,8073.46
+USA,Energy,Import Value,2021,5705.15
+USA,Energy,Import Value,2022,7965.91
+USA,Energy,Import Value,2023,3125.64
+Canada,Agriculture,GDP,2015,3107.47
+Canada,agriculture,GDP,2016,9229.99
+Canada,Agriculture,GDP,2017,3570.31
+Canada,Agriculture,GDP,2018,2112.29
+Canada,Agriculture,GDP,2019,8777.15
+Canada,Agriculture,GDP,2020,4957.48
+Canada,agriculture,GDP,2021,8159.41
+Canada,Agriculture,GDP,2022,5663.48
+Canada,Agriculture,GDP,2023,6814.28
+Canada,Agriculture,Inflation,2015,13.12
+Canada,Agriculture,Inflation,2016,5.35
+Canada,Agriculture,Inflation,2017,1.78
+Canada,Agriculture,Inflation,2018,12.77
+Canada,Agriculture,Inflation,2019,4.81
+Canada,Agriculture,Inflation,2020,3.8
+Canada,Agriculture,Inflation,2021,11.91
+Canada,Agriculture,Inflation,2022,12.57
+Canada,Agriculture,Inflation ,2023,7.49
+Canada,Agriculture,Unemployment,2015,8276.72
+Canada,Agriculture,Unemployment,2016,1895.86
+Canada,Agriculture,Unemployment,2017,9689.79
+Canada,Agriculture,Unemployment,2018,7553.29
+Canada,Agriculture,Unemployment,2019,9843.4
+Canada,Agriculture,Unemployment,2020,4480.37
+Canada,Agriculture,Unemployment,2021,8588.21
+Canada,Agriculture,Unemployment,2022,7420.22
+Canada,Agriculture,Unemployment,2023,5594.81
+Canada,Agriculture,Export Value,2015,3947.78
+Canada,Agriculture,Export Value,2016,1586.5
+Canada,Agriculture,Export Value,2017,4020.15
+Canada,Agriculture,Export Value,2018,6228.31
+Canada,Agriculture,Export Value,2019,3812.31
+Canada,Agriculture,Export Value,2020,8203.4
+Canada,Agriculture,Export Value,2021,6848.09
+Canada,Agriculture,Export Value,2022,1028.31
+Canada,Agriculture,Export Value,2023,2070.8
+Canada,Agriculture,Import Value,2015,3173.02
+Canada,Agriculture,Import Value,2016,3448.84
+Canada,Agriculture,Import Value,2017,8023.0
+Canada,Agriculture,Import Value,2018,841.4
+Canada,Agriculture,Import Value,2019,3608.7
+Canada,Agriculture,Import Value,2020,6767.18
+Canada,Agriculture,Import Value,2021,7729.52
+Canada,Agriculture,Import Value,2022,5603.78
+Canada,Agriculture,Import Value,2023,804.03
+Canada,Manufacturing,GDP,2015,5917.36
+Canada,Manufacturing,GDP,2016,9871.73
+Canada,Manufacturing,GDP,2017,4095.32
+Canada,Manufacturing,GDP,2018,
+Canada,Manufacturing,GDP,2019,579.64
+Canada,Manufacturing,GDP,2020,5448.51
+Canada,Manufacturing,GDP,2021,451.63
+Canada,Manufacturing,GDP,2022,2810.43
+Canada,Manufacturing,GDP,2023,5571.98
+Canada,Manufacturing,Inflation,2015,12.99
+Canada,Manufacturing,Inflation,2016,
+Canada,Manufacturing,Inflation,2017,14.52
+Canada,Manufacturing,Inflation,2018,14.88
+Canada,Manufacturing,Inflation,2019,4.43
+Canada,Manufacturing,Inflation,2020,9.15
+Canada,Manufacturing,Inflation,2021,8.64
+Canada,Manufacturing,Inflation,2022,12.54
+Canada,Manufacturing,Inflation,2023,8.96
+Canada,Manufacturing,Unemployment,2015,9665.08
+Canada,Manufacturing,Unemployment,2016,9279.84
+Canada,Manufacturing,Unemployment,2017,5572.03
+Canada,Manufacturing,Unemployment,2018,3855.62
+Canada,Manufacturing,Unemployment,2019,1423.13
+Canada,Manufacturing,Unemployment,2020,9125.22
+Canada,Manufacturing,Unemployment,2021,3266.28
+Canada,Manufacturing,Unemployment,2022,3577.55
+Canada,Manufacturing,Unemployment,2023,960.42
+Canada,Manufacturing,Export Value,2015,9036.72
+Canada,Manufacturing,Export Value,2016,9860.62
+Canada,Manufacturing,Export Value,2017,8848.0
+Canada,Manufacturing,Export Value,2018,350.36
+Canada,Manufacturing,Export Value,2019,968.07
+Canada,Manufacturing,Export Value,2020,8076.27
+Canada,Manufacturing,Export Value,2021,7115.12
+Canada,Manufacturing,Export Value,2022,702.33
+Canada,Manufacturing,Export Value,2023,626.97
+Canada,Manufacturing,Import Value,2015,8512.09
+Canada,Manufacturing,Import Value,2016,9230.89
+Canada,Manufacturing,Import Value,2017,8921.99
+Canada,Manufacturing,Import Value,2018,1060.6
+Canada,Manufacturing,Import Value,2019,
+Canada,Manufacturing,Import Value,2020,5589.79
+Canada,Manufacturing,Import Value,2021,6663.36
+Canada,Manufacturing,Import Value,2022,5799.07
+Canada,Manufacturing,Import Value,2023,5386.8
+Canada,Services,GDP,2015,5232.98
+Canada,Services,GDP,2016,8349.13
+Canada,Services,GDP,2017,
+Canada,Services,GDP,2018,1231.09
+Canada,Services,GDP,2019,
+Canada,Services,GDP,2020,3462.57
+Canada,Services,GDP,2021,5155.43
+Canada,Services,GDP,2022,803.43
+Canada,Services,GDP,2023,9541.84
+Canada,Services,Inflation ,2015,7.04
+Canada,Services,Inflation,2016,10.32
+Canada,Services,Inflation,2017,7.85
+Canada,Services,Inflation,2018,15.0
+Canada,Services,Inflation,2019,5.7
+Canada,Services,Inflation,2020,0.55
+Canada,Services,Inflation,2021,13.32
+Canada,Services,Inflation,2022,1.53
+Canada,Services,Inflation,2023,13.76
+Canada,Services,Unemployment,2015,3016.24
+Canada,services,Unemployment,2016,2429.37
+Canada,Services,Unemployment,2017,4593.29
+Canada,services,Unemployment,2018,2254.64
+Canada,Services,Unemployment,2019,6028.11
+Canada,Services,Unemployment,2020,7361.47
+Canada,Services,Unemployment,2021,5629.24
+Canada,Services,Unemployment,2022,1962.58
+Canada,Services,Unemployment,2023,5845.07
+Canada,Services,Export Value,2015,9747.22
+Canada,Services,Export Value,2016,8904.15
+Canada,Services,Export Value,2017,6755.99
+Canada,Services,Export Value,2018,2045.8
+Canada,Services,Export Value,2019,
+Canada,Services,Export Value,2020,6263.44
+Canada,Services,Export Value,2021,3874.6
+Canada,Services,Export Value,2022,6922.58
+Canada,Services,Export Value,2023,8615.95
+Canada,Services,Import Value,2015,2563.57
+Canada,Services,Import Value,2016,7525.92
+Canada,Services,Import Value,2017,1634.22
+Canada,Services,Import Value,2018,7225.4
+Canada,Services,Import Value,2019,4834.06
+Canada,Services,Import Value,2020,2762.59
+Canada,Services,Import Value,2021,4297.91
+Canada,Services,Import Value,2022,9434.63
+Canada,Services,Import Value,2023,6326.23
+Canada,Technology,GDP,2015,9858.25
+Canada,Technology,GDP,2016,7946.2
+Canada,Technology,GDP,2017,7852.23
+Canada,Technology,GDP,2018,4860.46
+Canada,Technology,GDP,2019,2335.36
+Canada,Technology,GDP,2020,4461.15
+Canada,Technology,GDP,2021,5160.59
+Canada,Technology,GDP,2022,3305.64
+Canada,Technology,GDP,2023,4300.42
+Canada,Technology,Inflation,2015,5.27
+Canada,Technology,Inflation,2016,1.4
+Canada,Technology,Inflation,2017,9.89
+Canada,Technology,Inflation,2018,0.56
+Canada,technology,Inflation,2019,6.67
+Canada,Technology,Inflation,2020,8.63
+Canada,Technology,Inflation,2021,
+Canada,Technology,Inflation,2022,0.57
+Canada,Technology,Inflation,2023,1.18
+Canada,Technology,Unemployment,2015,7058.57
+Canada,Technology,Unemployment,2016,3257.4
+Canada,Technology,Unemployment,2017,3997.55
+Canada,Technology,Unemployment,2018,3468.97
+Canada,Technology,Unemployment,2019,1893.57
+Canada,Technology,Unemployment,2020,8779.87
+Canada,Technology,Unemployment,2021,8965.88
+Canada,Technology,Unemployment,2022,840.03
+Canada,Technology,Unemployment,2023,
+Canada,Technology,Export Value,2015,6313.12
+Canada,Technology,Export Value,2016,5725.61
+Canada,Technology,Export Value,2017,134.75
+Canada,Technology,Export Value,2018,9242.76
+Canada,Technology,Export Value,2019,6360.89
+Canada,Technology,Export Value,2020,
+Canada,Technology,Export Value,2021,884.47
+Canada,Technology,Export Value,2022,2987.26
+Canada,Technology,Export Value,2023,4174.94
+Canada,Technology,Import Value,2015,4076.35
+Canada,Technology,Import Value,2016,8983.57
+Canada,Technology,Import Value,2017,1768.21
+Canada,Technology,Import Value,2018,3591.42
+Canada,Technology,Import Value,2019,4225.63
+Canada,Technology,Import Value,2020,4061.31
+Canada,Technology,Import Value,2021,4219.14
+Canada,Technology,Import Value,2022,1254.36
+Canada,Technology,Import Value,2023,4119.77
+Canada,Energy,GDP,2015,5311.78
+Canada,Energy,GDP,2016,4728.22
+Canada,Energy,GDP,2017,4873.16
+Canada,Energy,GDP,2018,2719.7
+Canada,Energy,GDP,2019,7175.87
+Canada,Energy,GDP,2020,3359.07
+Canada,Energy,GDP,2021,2791.22
+Canada,Energy,GDP,2022,7420.1
+Canada,Energy,GDP,2023,5166.28
+Canada,Energy,Inflation,2015,5.94
+Canada,Energy,Inflation,2016,5.72
+Canada,Energy,Inflation,2017,11.51
+Canada,Energy,Inflation,2018,11.34
+Canada,Energy,Inflation,2019,13.38
+Canada,Energy,Inflation,2020,7.77
+Canada,Energy,Inflation,2021,4.92
+Canada,Energy,Inflation,2022,7.46
+Canada,Energy,Inflation,2023,6.71
+Canada,Energy,Unemployment,2015,696.58
+Canada,Energy,Unemployment,2016,3163.21
+Canada,Energy,Unemployment,2017,578.21
+Canada,Energy,Unemployment,2018,3228.56
+Canada,Energy,Unemployment ,2019,4287.29
+Canada,Energy,Unemployment,2020,8801.65
+Canada,Energy,Unemployment,2021,7602.54
+Canada,Energy,Unemployment,2022,3828.19
+Canada,Energy,Unemployment,2023,3923.53
+Canada,Energy,Export Value,2015,2349.57
+Canada,Energy,Export Value,2016,6959.79
+Canada,Energy,Export Value,2017,488.78
+Canada,Energy,Export Value,2018,8103.58
+Canada,Energy,Export Value,2019,3116.37
+Canada,Energy,Export Value,2020,7795.04
+Canada,Energy,Export Value,2021,9171.94
+Canada,Energy,Export Value,2022,2779.39
+Canada,Energy,Export Value,2023,8324.54
+Canada,Energy,Import Value,2015,9446.32
+Canada,Energy,Import Value,2016,
+Canada,Energy,Import Value,2017,3344.88
+Canada,Energy,Import Value,2018,5304.89
+Canada,Energy,Import Value,2019,
+Canada,Energy,Import Value,2020,8090.06
+Canada,Energy,Import Value ,2021,
+Canada,Energy,Import Value,2022,3293.27
+Canada,Energy,Import Value,2023,9013.21
+Germany,Agriculture,GDP,2015,8507.61
+Germany,Agriculture,GDP,2016,4291.04
+Germany,Agriculture,GDP,2017,5416.04
+Germany,agriculture,GDP,2018,8016.71
+Germany,Agriculture,GDP,2019,6460.04
+Germany,Agriculture,GDP,2020,765.79
+Germany,Agriculture,GDP,2021,6281.76
+Germany,Agriculture,GDP,2022,3766.18
+Germany,Agriculture,GDP,2023,4403.14
+Germany,Agriculture,Inflation,2015,6.08
+Germany,Agriculture,Inflation,2016,14.81
+Germany,Agriculture,Inflation,2017,0.53
+Germany,Agriculture,Inflation,2018,
+Germany,Agriculture,Inflation,2019,13.26
+Germany,Agriculture,Inflation,2020,13.86
+Germany,Agriculture,Inflation,2021,14.42
+Germany,Agriculture,Inflation,2022,13.32
+Germany,Agriculture,Inflation,2023,4.3
+Germany,Agriculture,Unemployment,2015,3139.94
+Germany,Agriculture,Unemployment,2016,1111.78
+Germany,Agriculture,Unemployment,2017,5727.24
+Germany,Agriculture,Unemployment,2018,3826.0
+Germany,Agriculture,Unemployment,2019,
+Germany,Agriculture,Unemployment,2020,5216.49
+Germany,Agriculture,Unemployment,2021,4129.89
+Germany,Agriculture,Unemployment,2022,8149.52
+Germany,Agriculture,Unemployment,2023,5801.33
+Germany,Agriculture,Export Value,2015,6142.85
+Germany,Agriculture,Export Value,2016,9965.74
+Germany,Agriculture,Export Value,2017,4281.58
+Germany,Agriculture,Export Value,2018,5900.82
+Germany,Agriculture,Export Value,2019,1247.47
+Germany,Agriculture,Export Value,2020,8728.93
+Germany,Agriculture,Export Value,2021,1608.63
+Germany,Agriculture,Export Value,2022,6049.1
+Germany,Agriculture,Export Value,2023,8810.76
+Germany,Agriculture,Import Value,2015,9998.38
+Germany,Agriculture,Import Value,2016,
+Germany,Agriculture,Import Value,2017,2354.32
+Germany,Agriculture,Import Value,2018,4488.99
+Germany,Agriculture,Import Value,2019,6562.96
+Germany,Agriculture,Import Value,2020,8461.41
+Germany,Agriculture,Import Value,2021,613.05
+Germany,Agriculture,Import Value,2022,5823.2
+Germany,Agriculture,Import Value,2023,5259.43
+Germany,Manufacturing,GDP,2015,6929.74
+Germany,Manufacturing,GDP,2016,5571.9
+Germany,Manufacturing,GDP,2017,9000.58
+Germany,manufacturing,GDP,2018,4349.91
+Germany,Manufacturing,GDP,2019,5077.55
+Germany,Manufacturing,GDP,2020,9359.12
+Germany,Manufacturing,GDP,2021,9568.74
+Germany,Manufacturing,GDP,2022,3694.29
+Germany,Manufacturing,GDP ,2023,
+Germany,Manufacturing,Inflation,2015,11.42
+Germany,manufacturing,Inflation,2016,7.65
+Germany,Manufacturing,Inflation,2017,
+Germany,Manufacturing,Inflation,2018,8.92
+Germany,Manufacturing,Inflation,2019,2.31
+Germany,Manufacturing,Inflation,2020,9.04
+Germany,Manufacturing,Inflation,2021,2.03
+Germany,Manufacturing,Inflation,2022,6.13
+Germany,Manufacturing,Inflation,2023,12.7
+Germany,Manufacturing,Unemployment,2015,5797.99
+Germany,Manufacturing,Unemployment,2016,8752.23
+Germany,Manufacturing,Unemployment,2017,4849.31
+Germany,Manufacturing,Unemployment,2018,
+Germany,Manufacturing,Unemployment,2019,2683.47
+Germany,Manufacturing,Unemployment,2020,3456.13
+Germany,Manufacturing,Unemployment,2021,8441.86
+Germany,Manufacturing,Unemployment,2022,6562.62
+Germany,Manufacturing,Unemployment,2023,5383.84
+Germany,Manufacturing,Export Value,2015,6183.76
+Germany,Manufacturing,Export Value,2016,172.29
+Germany,Manufacturing,Export Value,2017,7199.91
+Germany,Manufacturing,Export Value,2018,2434.39
+Germany,Manufacturing,Export Value,2019,6813.9
+Germany,Manufacturing,Export Value,2020,7632.93
+Germany,Manufacturing,Export Value,2021,5369.46
+Germany,Manufacturing,Export Value,2022,7755.94
+Germany,Manufacturing,Export Value,2023,8122.62
+Germany,Manufacturing,Import Value,2015,2625.22
+Germany,Manufacturing,Import Value,2016,9293.06
+Germany,Manufacturing,Import Value,2017,6634.54
+Germany,Manufacturing,Import Value,2018,8395.16
+Germany,Manufacturing,Import Value,2019,2435.13
+Germany,Manufacturing,Import Value,2020,2867.83
+Germany,Manufacturing,Import Value,2021,5507.5
+Germany,Manufacturing,Import Value,2022,4068.85
+Germany,Manufacturing,Import Value,2023,4882.15
+Germany,Services,GDP,2015,3800.3
+Germany,Services,GDP,2016,1712.3
+Germany,Services,GDP,2017,
+Germany,Services,GDP,2018,2311.09
+Germany,Services,GDP,2019,
+Germany,Services,GDP,2020,3516.68
+Germany,Services,GDP,2021,7923.15
+Germany,Services,GDP,2022,7912.74
+Germany,Services,GDP,2023,3095.29
+Germany,Services,Inflation,2015,13.2
+Germany,Services,Inflation,2016,2.33
+Germany,Services,Inflation,2017,13.87
+Germany,Services,Inflation,2018,1.45
+Germany,Services,Inflation,2019,14.47
+Germany,Services,Inflation,2020,3.63
+Germany,Services,Inflation,2021,8.2
+Germany,Services,Inflation,2022,2.71
+Germany,Services,Inflation,2023,12.99
+Germany,Services,Unemployment,2015,8707.47
+Germany,Services,Unemployment,2016,5294.31
+Germany,Services,Unemployment,2017,6368.35
+Germany,Services,Unemployment,2018,1585.62
+Germany,Services,Unemployment,2019,
+Germany,Services,Unemployment,2020,5677.91
+Germany,Services,Unemployment,2021,3361.5
+Germany,Services,Unemployment,2022,5318.64
+Germany,Services,Unemployment,2023,9448.63
+Germany,Services,Export Value,2015,1899.3
+Germany,Services,Export Value,2016,157.41
+Germany,Services,Export Value,2017,3035.33
+Germany,Services,Export Value,2018,7090.45
+Germany,Services,Export Value,2019,399.34
+Germany,Services,Export Value,2020,7137.88
+Germany,Services,Export Value,2021,3044.87
+Germany,Services,Export Value,2022,5072.59
+Germany,Services,Export Value,2023,4343.41
+Germany,Services,Import Value,2015,2226.22
+Germany,Services,Import Value,2016,1479.19
+Germany,Services,Import Value,2017,
+Germany,Services,Import Value ,2018,467.91
+Germany,Services,Import Value,2019,3099.2
+Germany,Services,Import Value,2020,909.26
+Germany,Services,Import Value,2021,6505.24
+Germany,Services,Import Value,2022,1923.59
+Germany,Services,Import Value,2023,
+Germany,Technology,GDP,2015,7634.02
+Germany,Technology,GDP,2016,5465.91
+Germany,Technology,GDP,2017,7808.09
+Germany,Technology,GDP,2018,1083.75
+Germany,Technology,GDP,2019,4494.69
+Germany,Technology,GDP,2020,5260.85
+Germany,Technology,GDP,2021,9871.83
+Germany,Technology,GDP,2022,5945.5
+Germany,Technology,GDP,2023,
+Germany,technology,Inflation,2015,11.02
+Germany,Technology,Inflation,2016,6.04
+Germany,Technology,Inflation,2017,10.51
+Germany,Technology,Inflation,2018,3.42
+Germany,Technology,Inflation ,2019,8.4
+Germany,Technology,Inflation,2020,4.36
+Germany,Technology,Inflation ,2021,12.21
+Germany,Technology,Inflation,2022,10.07
+Germany,Technology,Inflation,2023,9.14
+Germany,Technology,Unemployment,2015,8484.07
+Germany,Technology,Unemployment,2016,7971.39
+Germany,Technology,Unemployment,2017,7972.62
+Germany,Technology,Unemployment,2018,1918.53
+Germany,Technology,Unemployment,2019,1233.16
+Germany,Technology,Unemployment,2020,618.42
+Germany,Technology,Unemployment ,2021,1518.77
+Germany,Technology,Unemployment,2022,2866.12
+Germany,Technology,Unemployment,2023,8329.01
+Germany,Technology,Export Value,2015,
+Germany,Technology,Export Value,2016,249.22
+Germany,Technology,Export Value,2017,5623.02
+Germany,Technology,Export Value,2018,6989.56
+Germany,technology,Export Value,2019,9508.91
+Germany,Technology,Export Value,2020,9342.57
+Germany,Technology,Export Value,2021,8756.04
+Germany,Technology,Export Value,2022,6013.57
+Germany,Technology,Export Value,2023,4293.76
+Germany,Technology,Import Value,2015,1248.69
+Germany,Technology,Import Value,2016,7003.45
+Germany,Technology,Import Value,2017,1345.31
+Germany,Technology,Import Value,2018,4176.18
+Germany,Technology,Import Value,2019,6109.11
+Germany,Technology,Import Value,2020,6396.65
+Germany,Technology,Import Value,2021,3190.51
+Germany,Technology,Import Value,2022,110.67
+Germany,Technology,Import Value,2023,7691.3
+Germany,Energy,GDP,2015,5337.34
+Germany,Energy,GDP,2016,1698.5
+Germany,Energy,GDP,2017,6542.6
+Germany,Energy,GDP,2018,9834.87
+Germany,Energy,GDP,2019,
+Germany,Energy,GDP,2020,7961.11
+Germany,Energy,GDP,2021,7110.39
+Germany,Energy,GDP,2022,6047.05
+Germany,Energy,GDP,2023,
+Germany,Energy,Inflation,2015,5.59
+Germany,Energy,Inflation,2016,13.91
+Germany,Energy,Inflation,2017,10.29
+Germany,Energy,Inflation,2018,9.38
+Germany,Energy,Inflation,2019,0.79
+Germany,Energy,Inflation,2020,
+Germany,energy,Inflation,2021,10.26
+Germany,Energy,Inflation,2022,5.99
+Germany,Energy,Inflation,2023,13.23
+Germany,Energy,Unemployment,2015,1256.85
+Germany,Energy,Unemployment,2016,1834.66
+Germany,Energy,Unemployment,2017,4218.82
+Germany,Energy,Unemployment,2018,
+Germany,Energy,Unemployment,2019,8007.77
+Germany,Energy,Unemployment,2020,5576.86
+Germany,Energy,Unemployment,2021,4962.82
+Germany,Energy,Unemployment,2022,867.74
+Germany,Energy,Unemployment,2023,2794.22
+Germany,Energy,Export Value,2015,6991.81
+Germany,Energy,Export Value,2016,4786.61
+Germany,Energy,Export Value,2017,614.13
+Germany,Energy,Export Value,2018,8139.56
+Germany,Energy,Export Value,2019,1137.81
+Germany,Energy,Export Value,2020,1356.83
+Germany,Energy,Export Value,2021,1846.88
+Germany,Energy,Export Value,2022,3656.8
+Germany,Energy,Export Value,2023,
+Germany,Energy,Import Value,2015,6159.31
+Germany,Energy,Import Value,2016,9044.33
+Germany,Energy,Import Value,2017,5669.37
+Germany,Energy,Import Value,2018,7880.82
+Germany,Energy,Import Value,2019,7872.09
+Germany,Energy,Import Value,2020,8972.01
+Germany,Energy,Import Value,2021,5906.6
+Germany,Energy,Import Value,2022,6430.63
+Germany,Energy,Import Value,2023,3106.92
+France,Agriculture,GDP,2015,7651.84
+France,Agriculture,GDP,2016,5978.24
+France,Agriculture,GDP,2017,7230.54
+France,Agriculture,GDP,2018,3314.46
+France,agriculture,GDP,2019,2277.83
+France,Agriculture,GDP,2020,4032.6
+France,Agriculture,GDP,2021,4404.53
+France,Agriculture,GDP,2022,9688.84
+France,Agriculture,GDP,2023,6729.86
+France,Agriculture,Inflation,2015,3.92
+France,Agriculture,Inflation,2016,13.57
+France,Agriculture,Inflation,2017,14.89
+France,Agriculture,Inflation,2018,14.11
+France,Agriculture,Inflation,2019,
+France,Agriculture,Inflation,2020,7.8
+France,Agriculture,Inflation,2021,11.26
+France,Agriculture,Inflation,2022,7.52
+France,agriculture,Inflation,2023,9.67
+France,Agriculture,Unemployment,2015,7813.92
+France,Agriculture,Unemployment,2016,6893.18
+France,Agriculture,Unemployment,2017,8556.58
+France,Agriculture,Unemployment,2018,8725.97
+France,Agriculture,Unemployment,2019,3378.45
+France,Agriculture,Unemployment,2020,8943.12
+France,Agriculture,Unemployment,2021,8326.92
+France,Agriculture,Unemployment,2022,5124.15
+France,Agriculture,Unemployment,2023,5438.77
+France,agriculture,Export Value,2015,4491.89
+France,Agriculture,Export Value,2016,3795.88
+France,Agriculture,Export Value,2017,9782.39
+France,Agriculture,Export Value,2018,3371.52
+France,Agriculture,Export Value,2019,7022.29
+France,agriculture,Export Value,2020,8858.18
+France,Agriculture,Export Value,2021,7867.98
+France,Agriculture,Export Value,2022,2434.71
+France,Agriculture,Export Value,2023,
+France,Agriculture,Import Value,2015,3015.38
+France,Agriculture,Import Value,2016,1608.71
+France,Agriculture,Import Value,2017,
+France,Agriculture,Import Value,2018,
+France,Agriculture,Import Value,2019,4707.69
+France,Agriculture,Import Value,2020,1373.27
+France,Agriculture,Import Value,2021,4300.31
+France,Agriculture,Import Value,2022,3614.96
+France,Agriculture,Import Value,2023,3914.54
+France,Manufacturing,GDP,2015,4350.58
+France,Manufacturing,GDP,2016,811.7
+France,Manufacturing,GDP,2017,8297.69
+France,Manufacturing,GDP,2018,
+France,Manufacturing,GDP ,2019,5310.63
+France,Manufacturing,GDP,2020,9124.54
+France,Manufacturing,GDP,2021,3067.23
+France,Manufacturing,GDP,2022,5308.78
+France,Manufacturing,GDP,2023,6547.39
+France,Manufacturing,Inflation,2015,9.81
+France,Manufacturing,Inflation,2016,4.33
+France,Manufacturing,Inflation,2017,7.84
+France,Manufacturing,Inflation,2018,8.28
+France,Manufacturing,Inflation,2019,7.53
+France,Manufacturing,Inflation,2020,1.79
+France,Manufacturing,Inflation,2021,0.7
+France,Manufacturing,Inflation,2022,11.64
+France,Manufacturing,Inflation,2023,7.62
+France,Manufacturing,Unemployment,2015,5264.43
+France,Manufacturing,Unemployment,2016,9994.22
+France,Manufacturing,Unemployment,2017,8587.42
+France,Manufacturing,Unemployment,2018,7992.21
+France,Manufacturing,Unemployment,2019,5975.4
+France,Manufacturing,Unemployment,2020,3617.36
+France,Manufacturing,Unemployment,2021,2005.75
+France,Manufacturing,Unemployment,2022,
+France,Manufacturing,Unemployment,2023,422.79
+France,Manufacturing,Export Value,2015,328.56
+France,Manufacturing,Export Value,2016,5580.47
+France,Manufacturing,Export Value,2017,3526.21
+France,Manufacturing,Export Value,2018,1039.52
+France,Manufacturing,Export Value ,2019,9700.65
+France,Manufacturing,Export Value,2020,3616.22
+France,Manufacturing,Export Value,2021,2680.06
+France,Manufacturing,Export Value,2022,8674.7
+France,Manufacturing,Export Value,2023,
+France,Manufacturing,Import Value ,2015,2879.49
+France,Manufacturing,Import Value,2016,8484.19
+France,Manufacturing,Import Value,2017,1764.6
+France,Manufacturing,Import Value,2018,120.13
+France,Manufacturing,Import Value,2019,381.06
+France,Manufacturing,Import Value,2020,7822.35
+France,manufacturing,Import Value,2021,1151.36
+France,Manufacturing,Import Value,2022,6239.74
+France,manufacturing,Import Value,2023,5433.46
+France,Services,GDP,2015,5534.73
+France,Services,GDP,2016,7253.12
+France,Services,GDP,2017,2947.72
+France,Services,GDP,2018,6965.4
+France,Services,GDP,2019,8558.11
+France,Services,GDP,2020,9886.54
+France,Services,GDP,2021,5112.65
+France,Services,GDP,2022,9245.96
+France,Services,GDP,2023,4732.03
+France,Services,Inflation,2015,5.1
+France,services,Inflation,2016,4.9
+France,Services,Inflation,2017,7.67
+France,Services,Inflation,2018,9.72
+France,Services,Inflation,2019,8.09
+France,Services,Inflation,2020,2.46
+France,Services,Inflation,2021,1.47
+France,Services,Inflation,2022,4.2
+France,Services,Inflation,2023,7.88
+France,Services,Unemployment,2015,9821.67
+France,Services,Unemployment,2016,9231.47
+France,Services,Unemployment,2017,3337.54
+France,Services,Unemployment,2018,751.02
+France,Services,Unemployment,2019,8999.19
+France,Services,Unemployment,2020,7733.93
+France,Services,Unemployment,2021,2381.14
+France,Services,Unemployment,2022,3903.94
+France,Services,Unemployment,2023,2607.59
+France,Services,Export Value,2015,7213.21
+France,Services,Export Value,2016,8982.96
+France,Services,Export Value,2017,8997.67
+France,Services,Export Value,2018,
+France,Services,Export Value,2019,7735.62
+France,Services,Export Value,2020,1948.73
+France,Services,Export Value,2021,4630.25
+France,Services,Export Value,2022,7880.66
+France,Services,Export Value,2023,4570.05
+France,Services,Import Value,2015,7574.89
+France,Services,Import Value,2016,4978.57
+France,Services,Import Value,2017,2818.95
+France,Services,Import Value,2018,2280.01
+France,Services,Import Value,2019,9161.86
+France,Services,Import Value,2020,1717.56
+France,Services,Import Value,2021,6370.54
+France,Services,Import Value,2022,3415.66
+France,Services,Import Value,2023,8879.7
+France,Technology,GDP,2015,334.64
+France,Technology,GDP,2016,9091.39
+France,Technology,GDP,2017,1158.95
+France,Technology,GDP,2018,1229.62
+France,Technology,GDP,2019,9626.22
+France,Technology,GDP,2020,649.29
+France,Technology,GDP,2021,6004.06
+France,Technology,GDP,2022,565.95
+France,Technology,GDP,2023,9106.22
+France,Technology,Inflation,2015,7.35
+France,Technology,Inflation,2016,10.51
+France,Technology,Inflation,2017,14.58
+France,technology,Inflation ,2018,14.16
+France,Technology,Inflation,2019,13.09
+France,Technology,Inflation,2020,0.81
+France,Technology,Inflation,2021,11.82
+France,Technology,Inflation,2022,11.63
+France,Technology,Inflation,2023,8.23
+France,Technology,Unemployment,2015,4939.93
+France,Technology,Unemployment,2016,
+France,Technology,Unemployment,2017,6611.11
+France,Technology,Unemployment,2018,6805.49
+France,Technology,Unemployment ,2019,
+France,Technology,Unemployment,2020,9064.85
+France,Technology,Unemployment,2021,5824.28
+France,Technology,Unemployment,2022,1057.22
+France,Technology,Unemployment,2023,9957.3
+France,Technology,Export Value,2015,7227.56
+France,Technology,Export Value,2016,5491.98
+France,Technology,Export Value,2017,2705.36
+France,Technology,Export Value,2018,3858.6
+France,Technology,Export Value,2019,2309.65
+France,Technology,Export Value,2020,6297.42
+France,Technology,Export Value,2021,9175.01
+France,Technology,Export Value,2022,2960.77
+France,Technology,Export Value,2023,6356.07
+France,Technology,Import Value,2015,7460.11
+France,Technology,Import Value,2016,9174.12
+France,Technology,Import Value,2017,3963.63
+France,Technology,Import Value,2018,6058.08
+France,Technology,Import Value,2019,4692.09
+France,Technology,Import Value,2020,5340.81
+France,Technology,Import Value,2021,8095.03
+France,Technology,Import Value,2022,8915.25
+France,Technology,Import Value,2023,4534.92
+France,Energy,GDP,2015,6569.93
+France,Energy,GDP,2016,6901.31
+France,Energy,GDP,2017,5064.48
+France,Energy,GDP,2018,6716.01
+France,Energy,GDP,2019,6778.0
+France,Energy,GDP,2020,4787.66
+France,Energy,GDP,2021,6680.93
+France,Energy,GDP,2022,752.12
+France,Energy,GDP,2023,
+France,Energy,Inflation,2015,6.26
+France,Energy,Inflation,2016,1.43
+France,Energy,Inflation,2017,6.26
+France,Energy,Inflation,2018,10.85
+France,Energy,Inflation,2019,14.5
+France,Energy,Inflation,2020,11.72
+France,Energy,Inflation,2021,6.44
+France,Energy,Inflation ,2022,2.77
+France,Energy,Inflation,2023,9.0
+France,Energy,Unemployment,2015,7437.45
+France,Energy,Unemployment,2016,1545.74
+France,Energy,Unemployment,2017,7235.69
+France,Energy,Unemployment,2018,3838.58
+France,Energy,Unemployment,2019,2825.38
+France,Energy,Unemployment,2020,3240.91
+France,Energy,Unemployment,2021,3858.93
+France,Energy,Unemployment,2022,6075.52
+France,Energy,Unemployment,2023,3250.55
+France,Energy,Export Value,2015,5706.95
+France,Energy,Export Value,2016,8180.13
+France,energy,Export Value,2017,9050.27
+France,Energy,Export Value,2018,7455.91
+France,Energy,Export Value,2019,9830.39
+France,Energy,Export Value,2020,2614.57
+France,Energy,Export Value,2021,2377.15
+France,Energy,Export Value,2022,2571.46
+France,Energy,Export Value,2023,
+France,Energy,Import Value,2015,6890.71
+France,Energy,Import Value,2016,4221.81
+France,Energy,Import Value,2017,6693.89
+France,Energy,Import Value,2018,2550.99
+France,Energy,Import Value,2019,4261.82
+France,Energy,Import Value,2020,7934.03
+France,Energy,Import Value,2021,7912.35
+France,Energy,Import Value,2022,1779.2
+France,Energy,Import Value,2023,102.28
+India,Agriculture,GDP,2015,2150.57
+India,Agriculture,GDP,2016,788.08
+India,Agriculture,GDP,2017,9098.32
+India,Agriculture,GDP,2018,563.72
+India,Agriculture,GDP,2019,4045.76
+India,Agriculture,GDP,2020,8727.93
+India,Agriculture,GDP,2021,2595.67
+India,Agriculture,GDP,2022,2171.92
+India,Agriculture,GDP,2023,5823.37
+India,Agriculture,Inflation,2015,13.89
+India,Agriculture,Inflation,2016,14.31
+India,Agriculture,Inflation,2017,0.7
+India,Agriculture,Inflation,2018,12.22
+India,Agriculture,Inflation,2019,2.9
+India,Agriculture,Inflation,2020,6.73
+India,Agriculture,Inflation,2021,5.75
+India,Agriculture,Inflation,2022,10.27
+India,Agriculture,Inflation,2023,2.86
+India,Agriculture,Unemployment ,2015,5399.65
+India,Agriculture,Unemployment,2016,6816.48
+India,Agriculture,Unemployment,2017,5377.69
+India,Agriculture,Unemployment,2018,6526.48
+India,Agriculture,Unemployment,2019,2217.53
+India,Agriculture,Unemployment,2020,6665.02
+India,Agriculture,Unemployment,2021,2617.22
+India,Agriculture,Unemployment,2022,4382.23
+India,Agriculture,Unemployment,2023,7561.99
+India,Agriculture,Export Value,2015,8806.93
+India,Agriculture,Export Value,2016,8372.47
+India,Agriculture,Export Value,2017,9894.63
+India,Agriculture,Export Value,2018,8181.14
+India,agriculture,Export Value,2019,4619.89
+India,Agriculture,Export Value,2020,6348.13
+India,Agriculture,Export Value,2021,5864.1
+India,Agriculture,Export Value,2022,3657.13
+India,Agriculture,Export Value,2023,1234.35
+India,Agriculture,Import Value,2015,2208.74
+India,Agriculture,Import Value,2016,9890.21
+India,agriculture,Import Value,2017,8027.05
+India,Agriculture,Import Value,2018,9032.32
+India,Agriculture,Import Value,2019,8462.02
+India,Agriculture,Import Value,2020,6955.18
+India,Agriculture,Import Value,2021,5865.31
+India,Agriculture,Import Value,2022,2713.56
+India,Agriculture,Import Value,2023,1372.03
+India,manufacturing,GDP,2015,5236.19
+India,Manufacturing,GDP,2016,3474.25
+India,Manufacturing,GDP,2017,1393.74
+India,Manufacturing,GDP,2018,
+India,Manufacturing,GDP,2019,9455.23
+India,Manufacturing,GDP,2020,8521.49
+India,Manufacturing,GDP,2021,3564.05
+India,Manufacturing,GDP,2022,1113.15
+India,Manufacturing,GDP,2023,8487.63
+India,Manufacturing,Inflation,2015,8.44
+India,Manufacturing,Inflation,2016,9.32
+India,manufacturing,Inflation,2017,
+India,Manufacturing,Inflation,2018,7.36
+India,Manufacturing,Inflation,2019,4.53
+India,Manufacturing,Inflation,2020,6.68
+India,Manufacturing,Inflation,2021,7.9
+India,Manufacturing,Inflation,2022,3.9
+India,manufacturing,Inflation,2023,12.09
+India,Manufacturing,Unemployment,2015,7376.2
+India,Manufacturing,Unemployment,2016,1446.66
+India,Manufacturing,Unemployment,2017,7845.01
+India,Manufacturing,Unemployment,2018,3427.58
+India,Manufacturing,Unemployment,2019,9595.62
+India,manufacturing,Unemployment,2020,2151.81
+India,Manufacturing,Unemployment,2021,1563.47
+India,Manufacturing,Unemployment,2022,5609.98
+India,Manufacturing,Unemployment,2023,9638.92
+India,manufacturing,Export Value,2015,761.47
+India,Manufacturing,Export Value,2016,3896.94
+India,Manufacturing,Export Value,2017,8297.88
+India,Manufacturing,Export Value,2018,8638.37
+India,Manufacturing,Export Value,2019,4862.64
+India,Manufacturing,Export Value,2020,7226.57
+India,Manufacturing,Export Value,2021,6454.47
+India,Manufacturing,Export Value,2022,5859.68
+India,Manufacturing,Export Value,2023,984.67
+India,Manufacturing,Import Value,2015,9020.16
+India,Manufacturing,Import Value,2016,3255.46
+India,Manufacturing,Import Value,2017,3212.3
+India,Manufacturing,Import Value,2018,4003.6
+India,Manufacturing,Import Value,2019,411.25
+India,Manufacturing,Import Value,2020,5776.42
+India,Manufacturing,Import Value,2021,6902.51
+India,manufacturing,Import Value,2022,2944.44
+India,Manufacturing,Import Value,2023,1513.47
+India,Services,GDP,2015,4703.97
+India,Services,GDP,2016,5541.29
+India,Services,GDP,2017,
+India,Services,GDP,2018,5029.58
+India,Services,GDP,2019,5919.32
+India,Services,GDP,2020,2463.85
+India,Services,GDP,2021,5764.73
+India,Services,GDP,2022,4174.51
+India,Services,GDP,2023,
+India,Services,Inflation,2015,6.55
+India,Services,Inflation,2016,4.01
+India,Services,Inflation,2017,
+India,Services,Inflation,2018,8.41
+India,Services,Inflation,2019,8.25
+India,Services,Inflation,2020,6.75
+India,Services,Inflation,2021,12.2
+India,Services,Inflation,2022,14.93
+India,Services,Inflation,2023,13.52
+India,Services,Unemployment,2015,9361.83
+India,Services,Unemployment,2016,7016.33
+India,Services,Unemployment,2017,1658.61
+India,Services,Unemployment,2018,9339.42
+India,Services,Unemployment,2019,
+India,Services,Unemployment,2020,6473.08
+India,services,Unemployment,2021,6716.93
+India,Services,Unemployment,2022,7597.9
+India,Services,Unemployment,2023,3155.83
+India,Services,Export Value,2015,2792.7
+India,Services,Export Value,2016,3043.8
+India,Services,Export Value,2017,4712.79
+India,Services,Export Value,2018,7103.33
+India,Services,Export Value,2019,3714.2
+India,Services,Export Value,2020,
+India,Services,Export Value,2021,2432.48
+India,Services,Export Value,2022,1071.44
+India,Services,Export Value,2023,2513.84
+India,Services,Import Value,2015,5590.12
+India,Services,Import Value,2016,8283.3
+India,Services,Import Value,2017,7469.86
+India,Services,Import Value,2018,1680.5
+India,Services,Import Value,2019,2022.25
+India,Services,Import Value,2020,1721.68
+India,Services,Import Value,2021,7400.21
+India,Services,Import Value,2022,6833.01
+India,Services,Import Value,2023,7903.97
+India,Technology,GDP,2015,5476.58
+India,Technology,GDP,2016,6839.15
+India,Technology,GDP,2017,1019.56
+India,Technology,GDP,2018,7552.4
+India,Technology,GDP,2019,4913.81
+India,Technology,GDP,2020,3188.29
+India,Technology,GDP,2021,4946.0
+India,Technology,GDP,2022,791.57
+India,Technology,GDP,2023,3463.64
+India,Technology,Inflation,2015,10.6
+India,Technology,Inflation,2016,5.68
+India,Technology,Inflation,2017,12.26
+India,Technology,Inflation,2018,11.31
+India,Technology,Inflation,2019,2.78
+India,Technology,Inflation,2020,2.3
+India,Technology,Inflation,2021,9.95
+India,Technology,Inflation,2022,2.2
+India,Technology,Inflation,2023,3.36
+India,Technology,Unemployment,2015,3964.12
+India,Technology,Unemployment,2016,3092.08
+India,Technology,Unemployment,2017,280.2
+India,Technology,Unemployment,2018,1296.73
+India,Technology,Unemployment,2019,7331.83
+India,Technology,Unemployment,2020,9440.77
+India,Technology,Unemployment,2021,2271.89
+India,Technology,Unemployment,2022,3574.26
+India,Technology,Unemployment,2023,3508.51
+India,technology,Export Value,2015,8657.08
+India,Technology,Export Value,2016,
+India,Technology,Export Value,2017,6820.88
+India,Technology,Export Value,2018,2757.98
+India,technology,Export Value,2019,9160.66
+India,Technology,Export Value,2020,1236.42
+India,Technology,Export Value,2021,1203.86
+India,Technology,Export Value,2022,7693.99
+India,Technology,Export Value,2023,7971.75
+India,Technology,Import Value,2015,8590.59
+India,Technology,Import Value,2016,4133.08
+India,Technology,Import Value,2017,
+India,Technology,Import Value,2018,9363.6
+India,Technology,Import Value,2019,3967.25
+India,Technology,Import Value,2020,3309.11
+India,Technology,Import Value,2021,9906.09
+India,Technology,Import Value,2022,5569.93
+India,Technology,Import Value,2023,3284.31
+India,Energy,GDP ,2015,5121.44
+India,Energy,GDP,2016,1773.28
+India,Energy,GDP,2017,1892.36
+India,Energy,GDP ,2018,1935.91
+India,Energy,GDP,2019,7131.7
+India,Energy,GDP,2020,8458.0
+India,Energy,GDP,2021,8987.89
+India,Energy,GDP,2022,3989.36
+India,Energy,GDP,2023,8126.99
+India,Energy,Inflation,2015,10.06
+India,energy,Inflation,2016,13.07
+India,Energy,Inflation,2017,4.47
+India,Energy,Inflation,2018,2.85
+India,Energy,Inflation,2019,3.87
+India,Energy,Inflation,2020,9.91
+India,Energy,Inflation,2021,1.18
+India,Energy,Inflation,2022,7.47
+India,Energy,Inflation,2023,3.98
+India,Energy,Unemployment ,2015,4939.42
+India,Energy,Unemployment,2016,1227.55
+India,Energy,Unemployment,2017,4139.57
+India,energy,Unemployment,2018,9120.01
+India,Energy,Unemployment,2019,7116.52
+India,energy,Unemployment,2020,1122.08
+India,Energy,Unemployment,2021,8961.29
+India,Energy,Unemployment,2022,8230.16
+India,energy,Unemployment,2023,6650.91
+India,Energy,Export Value,2015,7028.05
+India,Energy,Export Value,2016,5856.52
+India,Energy,Export Value,2017,8089.76
+India,Energy,Export Value,2018,7387.2
+India,Energy,Export Value,2019,258.2
+India,Energy,Export Value,2020,2789.64
+India,Energy,Export Value,2021,
+India,Energy,Export Value,2022,9805.12
+India,Energy,Export Value,2023,5005.78
+India,Energy,Import Value,2015,6607.57
+India,Energy,Import Value,2016,9579.51
+India,Energy,Import Value,2017,7157.0
+India,Energy,Import Value,2018,9952.37
+India,Energy,Import Value,2019,5516.13
+India,Energy,Import Value,2020,1330.28
+India,Energy,Import Value,2021,4083.5
+India,Energy,Import Value,2022,186.39
+India,Energy,Import Value,2023,1453.95
+China,Agriculture,GDP,2015,1113.11
+China,Agriculture,GDP,2016,8314.79
+China,Agriculture,GDP,2017,750.41
+China,Agriculture,GDP ,2018,4725.12
+China,Agriculture,GDP,2019,5982.63
+China,Agriculture,GDP,2020,9266.91
+China,Agriculture,GDP,2021,9496.32
+China,Agriculture,GDP,2022,5887.94
+China,Agriculture,GDP,2023,
+China,Agriculture,Inflation,2015,11.87
+China,Agriculture,Inflation,2016,7.49
+China,Agriculture,Inflation,2017,5.67
+China,Agriculture,Inflation,2018,13.5
+China,Agriculture,Inflation,2019,6.42
+China,Agriculture,Inflation,2020,13.19
+China,Agriculture,Inflation,2021,2.12
+China,Agriculture,Inflation,2022,14.67
+China,Agriculture,Inflation,2023,12.43
+China,Agriculture,Unemployment,2015,9714.27
+China,Agriculture,Unemployment,2016,6738.29
+China,Agriculture,Unemployment,2017,4912.93
+China,Agriculture,Unemployment,2018,
+China,Agriculture,Unemployment,2019,9877.42
+China,Agriculture,Unemployment,2020,6646.49
+China,Agriculture,Unemployment,2021,8407.84
+China,Agriculture,Unemployment,2022,2772.06
+China,Agriculture,Unemployment,2023,9540.68
+China,Agriculture,Export Value,2015,4833.37
+China,Agriculture,Export Value,2016,1027.82
+China,Agriculture,Export Value,2017,
+China,agriculture,Export Value,2018,6112.19
+China,Agriculture,Export Value,2019,8953.89
+China,Agriculture,Export Value,2020,
+China,Agriculture,Export Value,2021,8913.96
+China,Agriculture,Export Value,2022,4041.74
+China,Agriculture,Export Value,2023,1893.21
+China,Agriculture,Import Value,2015,
+China,Agriculture,Import Value,2016,
+China,Agriculture,Import Value,2017,5861.04
+China,Agriculture,Import Value,2018,7884.2
+China,Agriculture,Import Value,2019,3247.35
+China,agriculture,Import Value,2020,624.38
+China,Agriculture,Import Value,2021,5461.42
+China,Agriculture,Import Value,2022,5252.3
+China,Agriculture,Import Value,2023,4569.66
+China,Manufacturing,GDP,2015,
+China,Manufacturing,GDP,2016,
+China,Manufacturing,GDP,2017,1877.26
+China,Manufacturing,GDP,2018,8184.26
+China,Manufacturing,GDP,2019,3180.35
+China,Manufacturing,GDP,2020,457.98
+China,Manufacturing,GDP,2021,6386.49
+China,Manufacturing,GDP,2022,7561.72
+China,Manufacturing,GDP,2023,
+China,Manufacturing,Inflation,2015,6.23
+China,Manufacturing,Inflation,2016,3.21
+China,Manufacturing,Inflation,2017,13.9
+China,Manufacturing,Inflation,2018,9.98
+China,Manufacturing,Inflation,2019,4.59
+China,Manufacturing,Inflation,2020,8.11
+China,Manufacturing,Inflation,2021,10.33
+China,Manufacturing,Inflation,2022,5.96
+China,Manufacturing,Inflation,2023,2.66
+China,Manufacturing,Unemployment,2015,5478.21
+China,Manufacturing,Unemployment,2016,5757.97
+China,Manufacturing,Unemployment,2017,7827.16
+China,Manufacturing,Unemployment,2018,2875.68
+China,manufacturing,Unemployment,2019,3039.45
+China,Manufacturing,Unemployment,2020,
+China,Manufacturing,Unemployment,2021,7201.25
+China,Manufacturing,Unemployment,2022,4505.19
+China,Manufacturing,Unemployment,2023,5338.8
+China,Manufacturing,Export Value,2015,6614.73
+China,Manufacturing,Export Value,2016,2228.14
+China,Manufacturing,Export Value,2017,7881.31
+China,Manufacturing,Export Value,2018,5935.46
+China,Manufacturing,Export Value,2019,2149.23
+China,Manufacturing,Export Value,2020,6335.24
+China,Manufacturing,Export Value,2021,5842.85
+China,Manufacturing,Export Value,2022,9915.7
+China,Manufacturing,Export Value,2023,4963.74
+China,Manufacturing,Import Value,2015,
+China,Manufacturing,Import Value,2016,9697.08
+China,Manufacturing,Import Value,2017,9188.53
+China,Manufacturing,Import Value,2018,5888.82
+China,Manufacturing,Import Value,2019,4880.12
+China,Manufacturing,Import Value,2020,6158.45
+China,Manufacturing,Import Value,2021,6794.14
+China,Manufacturing,Import Value,2022,5773.34
+China,Manufacturing,Import Value,2023,2382.09
+China,Services,GDP,2015,7057.95
+China,Services,GDP,2016,528.11
+China,Services,GDP,2017,6602.31
+China,Services,GDP ,2018,8104.32
+China,Services,GDP,2019,3245.06
+China,Services,GDP,2020,8256.55
+China,Services,GDP,2021,7978.34
+China,Services,GDP,2022,4155.91
+China,Services,GDP,2023,1686.67
+China,Services,Inflation,2015,3.3
+China,Services,Inflation,2016,3.65
+China,Services,Inflation,2017,14.17
+China,Services,Inflation,2018,10.06
+China,Services,Inflation,2019,10.33
+China,Services,Inflation,2020,0.65
+China,Services,Inflation,2021,3.13
+China,services,Inflation,2022,9.7
+China,Services,Inflation,2023,3.88
+China,Services,Unemployment,2015,7666.42
+China,Services,Unemployment,2016,3050.06
+China,Services,Unemployment,2017,2633.53
+China,Services,Unemployment,2018,8819.76
+China,Services,Unemployment,2019,2504.32
+China,Services,Unemployment,2020,9521.84
+China,Services,Unemployment,2021,6741.17
+China,Services,Unemployment,2022,7188.61
+China,Services,Unemployment,2023,6171.47
+China,Services,Export Value,2015,8525.04
+China,Services,Export Value,2016,9634.56
+China,Services,Export Value,2017,895.48
+China,Services,Export Value,2018,6206.19
+China,Services,Export Value,2019,4600.43
+China,Services,Export Value,2020,4532.12
+China,Services,Export Value,2021,5137.03
+China,Services,Export Value,2022,8004.1
+China,Services,Export Value,2023,1944.67
+China,Services,Import Value,2015,6856.12
+China,Services,Import Value,2016,2300.33
+China,Services,Import Value,2017,1709.39
+China,services,Import Value,2018,1492.58
+China,Services,Import Value,2019,5833.05
+China,Services,Import Value,2020,2229.27
+China,services,Import Value,2021,1212.83
+China,services,Import Value,2022,2188.37
+China,Services,Import Value ,2023,3017.28
+China,Technology,GDP,2015,5469.0
+China,Technology,GDP,2016,754.91
+China,Technology,GDP,2017,3551.84
+China,Technology,GDP,2018,7779.21
+China,Technology,GDP,2019,4101.14
+China,Technology,GDP,2020,3397.54
+China,Technology,GDP,2021,8904.2
+China,Technology,GDP,2022,9225.46
+China,Technology,GDP,2023,7852.2
+China,Technology,Inflation,2015,6.99
+China,Technology,Inflation,2016,
+China,Technology,Inflation,2017,11.94
+China,Technology,Inflation ,2018,3.24
+China,Technology,Inflation,2019,9.45
+China,Technology,Inflation,2020,10.82
+China,Technology,Inflation,2021,4.32
+China,Technology,Inflation,2022,6.99
+China,Technology,Inflation,2023,3.92
+China,Technology,Unemployment,2015,8704.15
+China,Technology,Unemployment,2016,3471.91
+China,Technology,Unemployment,2017,5616.77
+China,Technology,Unemployment,2018,
+China,Technology,Unemployment,2019,8901.17
+China,Technology,Unemployment,2020,2852.54
+China,Technology,Unemployment,2021,811.82
+China,Technology,Unemployment ,2022,7794.41
+China,Technology,Unemployment,2023,9930.47
+China,Technology,Export Value,2015,6898.24
+China,Technology,Export Value,2016,3647.37
+China,Technology,Export Value,2017,4140.87
+China,Technology,Export Value,2018,4038.15
+China,Technology,Export Value,2019,4054.43
+China,Technology,Export Value,2020,7335.5
+China,Technology,Export Value,2021,5447.34
+China,Technology,Export Value,2022,9091.03
+China,Technology,Export Value,2023,8268.51
+China,Technology,Import Value,2015,2943.97
+China,Technology,Import Value,2016,8850.21
+China,Technology,Import Value,2017,1567.46
+China,Technology,Import Value,2018,2979.98
+China,Technology,Import Value,2019,3084.95
+China,Technology,Import Value,2020,1452.85
+China,Technology,Import Value,2021,5638.42
+China,Technology,Import Value,2022,7545.07
+China,Technology,Import Value,2023,2784.1
+China,Energy,GDP,2015,1059.01
+China,Energy,GDP,2016,7125.88
+China,Energy,GDP,2017,6798.99
+China,Energy,GDP,2018,9011.95
+China,Energy,GDP,2019,1951.89
+China,Energy,GDP ,2020,7147.5
+China,Energy,GDP,2021,5043.01
+China,Energy,GDP,2022,2569.45
+China,Energy,GDP,2023,3067.24
+China,Energy,Inflation,2015,6.41
+China,Energy,Inflation,2016,7.7
+China,Energy,Inflation,2017,13.38
+China,Energy,Inflation,2018,3.69
+China,Energy,Inflation,2019,5.77
+China,Energy,Inflation,2020,5.55
+China,Energy,Inflation,2021,4.31
+China,Energy,Inflation,2022,1.59
+China,Energy,Inflation ,2023,1.09
+China,Energy,Unemployment,2015,9791.1
+China,Energy,Unemployment,2016,3974.01
+China,Energy,Unemployment,2017,1924.96
+China,Energy,Unemployment,2018,3600.29
+China,energy,Unemployment,2019,2489.46
+China,Energy,Unemployment,2020,3590.78
+China,Energy,Unemployment,2021,2877.31
+China,Energy,Unemployment,2022,5578.18
+China,Energy,Unemployment,2023,389.63
+China,Energy,Export Value,2015,9155.91
+China,Energy,Export Value,2016,9553.11
+China,Energy,Export Value,2017,4582.34
+China,Energy,Export Value,2018,5491.22
+China,Energy,Export Value ,2019,7062.39
+China,Energy,Export Value,2020,3268.56
+China,energy,Export Value,2021,9034.46
+China,Energy,Export Value,2022,7470.0
+China,Energy,Export Value,2023,6276.53
+China,Energy,Import Value,2015,9644.54
+China,Energy,Import Value,2016,3184.93
+China,energy,Import Value,2017,9819.15
+China,Energy,Import Value,2018,4859.11
+China,Energy,Import Value,2019,5891.13
+China,Energy,Import Value,2020,6095.13
+China,Energy,Import Value,2021,3485.08
+China,Energy,Import Value ,2022,9829.81
+China,energy,Import Value,2023,4771.1
+Brazil,Agriculture,GDP,2015,7481.51
+Brazil,Agriculture,GDP,2016,2084.16
+Brazil,Agriculture,GDP,2017,4709.74
+Brazil,Agriculture,GDP,2018,2902.19
+Brazil,Agriculture,GDP,2019,5645.43
+Brazil,Agriculture,GDP,2020,4046.29
+Brazil,Agriculture,GDP,2021,9112.94
+Brazil,Agriculture,GDP,2022,6874.71
+Brazil,Agriculture,GDP,2023,7679.42
+Brazil,Agriculture,Inflation,2015,8.78
+Brazil,Agriculture,Inflation ,2016,6.74
+Brazil,Agriculture,Inflation,2017,7.47
+Brazil,Agriculture,Inflation ,2018,7.71
+Brazil,Agriculture,Inflation,2019,14.38
+Brazil,Agriculture,Inflation,2020,0.75
+Brazil,agriculture,Inflation,2021,9.53
+Brazil,Agriculture,Inflation,2022,2.2
+Brazil,Agriculture,Inflation,2023,6.49
+Brazil,Agriculture,Unemployment,2015,186.73
+Brazil,Agriculture,Unemployment,2016,4499.98
+Brazil,Agriculture,Unemployment,2017,6041.43
+Brazil,Agriculture,Unemployment,2018,1828.25
+Brazil,Agriculture,Unemployment,2019,8939.67
+Brazil,Agriculture,Unemployment ,2020,3230.2
+Brazil,Agriculture,Unemployment,2021,
+Brazil,Agriculture,Unemployment,2022,953.17
+Brazil,Agriculture,Unemployment,2023,5764.62
+Brazil,Agriculture,Export Value,2015,9246.72
+Brazil,Agriculture,Export Value,2016,1058.79
+Brazil,Agriculture,Export Value,2017,8554.92
+Brazil,Agriculture,Export Value,2018,
+Brazil,Agriculture,Export Value,2019,4150.17
+Brazil,Agriculture,Export Value,2020,6643.2
+Brazil,Agriculture,Export Value,2021,1944.12
+Brazil,Agriculture,Export Value,2022,1939.22
+Brazil,Agriculture,Export Value,2023,5610.23
+Brazil,Agriculture,Import Value,2015,1385.92
+Brazil,Agriculture,Import Value,2016,7091.81
+Brazil,Agriculture,Import Value,2017,2415.04
+Brazil,Agriculture,Import Value,2018,8553.65
+Brazil,Agriculture,Import Value ,2019,4088.84
+Brazil,Agriculture,Import Value,2020,7972.54
+Brazil,Agriculture,Import Value,2021,5952.94
+Brazil,Agriculture,Import Value,2022,3971.2
+Brazil,Agriculture,Import Value,2023,7998.9
+Brazil,Manufacturing,GDP,2015,7384.22
+Brazil,Manufacturing,GDP,2016,
+Brazil,Manufacturing,GDP,2017,4988.36
+Brazil,Manufacturing,GDP,2018,2897.5
+Brazil,Manufacturing,GDP,2019,2633.94
+Brazil,Manufacturing,GDP,2020,
+Brazil,Manufacturing,GDP,2021,9364.12
+Brazil,Manufacturing,GDP,2022,580.32
+Brazil,Manufacturing,GDP,2023,9949.85
+Brazil,Manufacturing,Inflation,2015,7.29
+Brazil,Manufacturing,Inflation,2016,5.61
+Brazil,Manufacturing,Inflation,2017,4.58
+Brazil,Manufacturing,Inflation,2018,11.32
+Brazil,Manufacturing,Inflation,2019,14.36
+Brazil,Manufacturing,Inflation,2020,3.63
+Brazil,Manufacturing,Inflation,2021,7.39
+Brazil,Manufacturing,Inflation,2022,13.35
+Brazil,Manufacturing,Inflation,2023,10.88
+Brazil,Manufacturing,Unemployment,2015,4881.87
+Brazil,Manufacturing,Unemployment,2016,1057.6
+Brazil,Manufacturing,Unemployment,2017,7306.11
+Brazil,Manufacturing,Unemployment,2018,292.02
+Brazil,Manufacturing,Unemployment,2019,6961.77
+Brazil,Manufacturing,Unemployment,2020,6418.75
+Brazil,Manufacturing,Unemployment,2021,6518.08
+Brazil,Manufacturing,Unemployment,2022,745.7
+Brazil,Manufacturing,Unemployment,2023,3939.59
+Brazil,Manufacturing,Export Value,2015,2507.93
+Brazil,Manufacturing,Export Value,2016,3252.61
+Brazil,Manufacturing,Export Value,2017,8294.5
+Brazil,Manufacturing,Export Value,2018,370.18
+Brazil,Manufacturing,Export Value,2019,1128.11
+Brazil,Manufacturing,Export Value,2020,111.9
+Brazil,Manufacturing,Export Value,2021,2845.41
+Brazil,Manufacturing,Export Value,2022,5317.13
+Brazil,Manufacturing,Export Value,2023,9916.13
+Brazil,Manufacturing,Import Value,2015,3296.41
+Brazil,Manufacturing,Import Value,2016,3304.72
+Brazil,Manufacturing,Import Value,2017,4743.77
+Brazil,Manufacturing,Import Value,2018,1624.93
+Brazil,Manufacturing,Import Value,2019,5799.41
+Brazil,Manufacturing,Import Value,2020,2904.74
+Brazil,Manufacturing,Import Value,2021,9826.47
+Brazil,Manufacturing,Import Value,2022,5214.66
+Brazil,Manufacturing,Import Value,2023,408.94
+Brazil,Services,GDP,2015,8672.01
+Brazil,Services,GDP,2016,3493.78
+Brazil,Services,GDP,2017,1385.66
+Brazil,Services,GDP,2018,1457.27
+Brazil,Services,GDP,2019,3447.48
+Brazil,Services,GDP,2020,9449.07
+Brazil,Services,GDP,2021,
+Brazil,Services,GDP,2022,1048.04
+Brazil,Services,GDP,2023,9477.18
+Brazil,Services,Inflation,2015,9.07
+Brazil,Services,Inflation,2016,12.47
+Brazil,Services,Inflation,2017,5.46
+Brazil,Services,Inflation,2018,14.91
+Brazil,Services,Inflation,2019,0.51
+Brazil,Services,Inflation,2020,6.18
+Brazil,Services,Inflation,2021,1.83
+Brazil,Services,Inflation,2022,3.92
+Brazil,Services,Inflation,2023,2.57
+Brazil,Services,Unemployment,2015,7853.01
+Brazil,Services,Unemployment,2016,4527.77
+Brazil,Services,Unemployment,2017,
+Brazil,Services,Unemployment,2018,9760.71
+Brazil,Services,Unemployment,2019,2803.21
+Brazil,Services,Unemployment,2020,
+Brazil,Services,Unemployment,2021,9553.84
+Brazil,Services,Unemployment,2022,9739.76
+Brazil,Services,Unemployment,2023,2990.63
+Brazil,Services,Export Value,2015,
+Brazil,Services,Export Value,2016,8298.56
+Brazil,Services,Export Value,2017,6888.98
+Brazil,Services,Export Value,2018,7614.84
+Brazil,Services,Export Value,2019,7617.12
+Brazil,Services,Export Value,2020,7732.5
+Brazil,Services,Export Value,2021,9075.24
+Brazil,Services,Export Value,2022,3851.89
+Brazil,Services,Export Value,2023,9660.99
+Brazil,Services,Import Value,2015,9204.29
+Brazil,Services,Import Value,2016,4604.86
+Brazil,Services,Import Value,2017,8242.45
+Brazil,Services,Import Value,2018,580.94
+Brazil,Services,Import Value,2019,6722.42
+Brazil,Services,Import Value,2020,9596.73
+Brazil,Services,Import Value,2021,5428.57
+Brazil,Services,Import Value,2022,5073.83
+Brazil,Services,Import Value,2023,4419.08
+Brazil,Technology,GDP,2015,2799.51
+Brazil,Technology,GDP,2016,9146.21
+Brazil,Technology,GDP,2017,4716.01
+Brazil,Technology,GDP,2018,5402.64
+Brazil,Technology,GDP,2019,6036.78
+Brazil,Technology,GDP,2020,3801.69
+Brazil,Technology,GDP,2021,5881.31
+Brazil,technology,GDP,2022,2522.68
+Brazil,Technology,GDP,2023,6276.48
+Brazil,Technology,Inflation,2015,2.23
+Brazil,Technology,Inflation ,2016,3.26
+Brazil,Technology,Inflation,2017,6.05
+Brazil,technology,Inflation,2018,11.3
+Brazil,Technology,Inflation,2019,0.8
+Brazil,Technology,Inflation,2020,14.51
+Brazil,Technology,Inflation,2021,6.65
+Brazil,Technology,Inflation,2022,7.51
+Brazil,Technology,Inflation,2023,12.23
+Brazil,Technology,Unemployment,2015,766.08
+Brazil,Technology,Unemployment,2016,2558.08
+Brazil,Technology,Unemployment,2017,1127.09
+Brazil,Technology,Unemployment,2018,6631.65
+Brazil,Technology,Unemployment,2019,6093.1
+Brazil,Technology,Unemployment,2020,2184.72
+Brazil,technology,Unemployment,2021,2449.66
+Brazil,Technology,Unemployment,2022,7403.25
+Brazil,Technology,Unemployment,2023,2331.19
+Brazil,Technology,Export Value,2015,8437.11
+Brazil,Technology,Export Value,2016,464.45
+Brazil,Technology,Export Value,2017,
+Brazil,Technology,Export Value,2018,3288.15
+Brazil,Technology,Export Value,2019,947.19
+Brazil,Technology,Export Value,2020,6458.9
+Brazil,Technology,Export Value,2021,897.05
+Brazil,Technology,Export Value ,2022,2852.73
+Brazil,Technology,Export Value,2023,4168.01
+Brazil,Technology,Import Value,2015,2242.36
+Brazil,Technology,Import Value,2016,9311.74
+Brazil,Technology,Import Value,2017,5951.24
+Brazil,Technology,Import Value,2018,2223.68
+Brazil,Technology,Import Value,2019,7259.07
+Brazil,Technology,Import Value,2020,685.18
+Brazil,Technology,Import Value,2021,5078.62
+Brazil,Technology,Import Value,2022,9922.99
+Brazil,Technology,Import Value,2023,8125.14
+Brazil,Energy,GDP,2015,
+Brazil,Energy,GDP,2016,4025.28
+Brazil,Energy,GDP,2017,8877.77
+Brazil,Energy,GDP,2018,7142.95
+Brazil,Energy,GDP,2019,6496.38
+Brazil,Energy,GDP,2020,473.71
+Brazil,Energy,GDP,2021,2190.66
+Brazil,Energy,GDP,2022,3884.45
+Brazil,Energy,GDP,2023,971.79
+Brazil,Energy,Inflation,2015,9.46
+Brazil,Energy,Inflation,2016,1.07
+Brazil,Energy,Inflation,2017,7.29
+Brazil,Energy,Inflation,2018,3.71
+Brazil,Energy,Inflation,2019,12.43
+Brazil,Energy,Inflation,2020,13.27
+Brazil,Energy,Inflation,2021,5.79
+Brazil,Energy,Inflation ,2022,11.23
+Brazil,Energy,Inflation,2023,9.77
+Brazil,Energy,Unemployment,2015,7722.12
+Brazil,Energy,Unemployment,2016,6879.45
+Brazil,Energy,Unemployment ,2017,2067.28
+Brazil,Energy,Unemployment,2018,5992.86
+Brazil,Energy,Unemployment,2019,8375.68
+Brazil,Energy,Unemployment,2020,6667.66
+Brazil,Energy,Unemployment,2021,9777.22
+Brazil,Energy,Unemployment,2022,7303.58
+Brazil,Energy,Unemployment,2023,3022.46
+Brazil,Energy,Export Value,2015,5816.67
+Brazil,Energy,Export Value,2016,6892.1
+Brazil,Energy,Export Value,2017,9212.15
+Brazil,Energy,Export Value,2018,
+Brazil,energy,Export Value,2019,2373.72
+Brazil,Energy,Export Value,2020,
+Brazil,Energy,Export Value,2021,9878.59
+Brazil,Energy,Export Value,2022,9719.48
+Brazil,Energy,Export Value,2023,2101.39
+Brazil,Energy,Import Value,2015,4201.63
+Brazil,Energy,Import Value,2016,399.71
+Brazil,Energy,Import Value,2017,737.42
+Brazil,Energy,Import Value,2018,6127.65
+Brazil,Energy,Import Value,2019,6906.48
+Brazil,Energy,Import Value,2020,9494.55
+Brazil,Energy,Import Value,2021,
+Brazil,Energy,Import Value,2022,5145.97
+Brazil,Energy,Import Value,2023,
+Australia,Agriculture,GDP,2015,9055.34
+Australia,Agriculture,GDP,2016,9666.07
+Australia,Agriculture,GDP,2017,4606.97
+Australia,Agriculture,GDP,2018,9228.97
+Australia,Agriculture,GDP,2019,4429.54
+Australia,Agriculture,GDP,2020,560.29
+Australia,agriculture,GDP,2021,6206.1
+Australia,Agriculture,GDP,2022,6100.37
+Australia,Agriculture,GDP,2023,4099.9
+Australia,Agriculture,Inflation,2015,14.64
+Australia,Agriculture,Inflation,2016,3.7
+Australia,Agriculture,Inflation,2017,0.89
+Australia,Agriculture,Inflation,2018,1.59
+Australia,Agriculture,Inflation,2019,6.16
+Australia,Agriculture,Inflation,2020,5.45
+Australia,Agriculture,Inflation,2021,14.49
+Australia,Agriculture,Inflation,2022,8.08
+Australia,Agriculture,Inflation,2023,10.21
+Australia,Agriculture,Unemployment,2015,9033.77
+Australia,Agriculture,Unemployment,2016,4283.77
+Australia,Agriculture,Unemployment,2017,5154.89
+Australia,Agriculture,Unemployment,2018,4817.21
+Australia,Agriculture,Unemployment,2019,9727.48
+Australia,Agriculture,Unemployment,2020,1559.56
+Australia,Agriculture,Unemployment,2021,5202.45
+Australia,Agriculture,Unemployment,2022,5483.25
+Australia,Agriculture,Unemployment,2023,8267.78
+Australia,Agriculture,Export Value,2015,8679.4
+Australia,Agriculture,Export Value,2016,7451.66
+Australia,Agriculture,Export Value,2017,8308.98
+Australia,Agriculture,Export Value,2018,4333.02
+Australia,Agriculture,Export Value,2019,7463.55
+Australia,Agriculture,Export Value,2020,1186.31
+Australia,Agriculture,Export Value,2021,7676.87
+Australia,Agriculture,Export Value,2022,8204.57
+Australia,Agriculture,Export Value,2023,9911.17
+Australia,Agriculture,Import Value,2015,3503.59
+Australia,agriculture,Import Value,2016,4123.63
+Australia,Agriculture,Import Value ,2017,6319.79
+Australia,agriculture,Import Value,2018,8638.12
+Australia,Agriculture,Import Value,2019,517.48
+Australia,Agriculture,Import Value,2020,7370.86
+Australia,Agriculture,Import Value,2021,8353.78
+Australia,Agriculture,Import Value,2022,6045.38
+Australia,Agriculture,Import Value,2023,3724.06
+Australia,Manufacturing,GDP,2015,5066.51
+Australia,Manufacturing,GDP,2016,7518.09
+Australia,Manufacturing,GDP,2017,810.23
+Australia,Manufacturing,GDP,2018,677.86
+Australia,Manufacturing,GDP,2019,9679.12
+Australia,Manufacturing,GDP,2020,4050.84
+Australia,Manufacturing,GDP,2021,8238.86
+Australia,Manufacturing,GDP,2022,1025.78
+Australia,Manufacturing,GDP,2023,8378.37
+Australia,Manufacturing,Inflation,2015,
+Australia,Manufacturing,Inflation,2016,4.88
+Australia,Manufacturing,Inflation,2017,10.29
+Australia,Manufacturing,Inflation,2018,0.73
+Australia,Manufacturing,Inflation ,2019,2.53
+Australia,Manufacturing,Inflation,2020,1.81
+Australia,Manufacturing,Inflation,2021,7.8
+Australia,Manufacturing,Inflation,2022,10.8
+Australia,Manufacturing,Inflation,2023,0.84
+Australia,Manufacturing,Unemployment ,2015,2888.98
+Australia,Manufacturing,Unemployment,2016,6171.77
+Australia,Manufacturing,Unemployment,2017,4975.38
+Australia,manufacturing,Unemployment,2018,4683.57
+Australia,Manufacturing,Unemployment,2019,9158.46
+Australia,Manufacturing,Unemployment,2020,642.97
+Australia,Manufacturing,Unemployment,2021,2613.61
+Australia,Manufacturing,Unemployment,2022,3291.52
+Australia,Manufacturing,Unemployment,2023,5724.31
+Australia,Manufacturing,Export Value,2015,5966.0
+Australia,Manufacturing,Export Value,2016,1466.78
+Australia,Manufacturing,Export Value,2017,937.78
+Australia,Manufacturing,Export Value,2018,3660.5
+Australia,Manufacturing,Export Value,2019,1431.13
+Australia,Manufacturing,Export Value,2020,2338.4
+Australia,Manufacturing,Export Value,2021,9824.98
+Australia,Manufacturing,Export Value,2022,9989.51
+Australia,Manufacturing,Export Value,2023,7668.65
+Australia,Manufacturing,Import Value,2015,2790.53
+Australia,Manufacturing,Import Value,2016,8411.38
+Australia,Manufacturing,Import Value,2017,2040.36
+Australia,Manufacturing,Import Value,2018,5141.42
+Australia,Manufacturing,Import Value,2019,5559.2
+Australia,Manufacturing,Import Value,2020,9911.75
+Australia,Manufacturing,Import Value,2021,343.54
+Australia,Manufacturing,Import Value,2022,1122.28
+Australia,Manufacturing,Import Value ,2023,5919.21
+Australia,Services,GDP,2015,163.16
+Australia,Services,GDP,2016,3017.28
+Australia,Services,GDP,2017,5697.46
+Australia,Services,GDP,2018,4294.76
+Australia,Services,GDP,2019,6428.58
+Australia,Services,GDP,2020,
+Australia,Services,GDP,2021,360.92
+Australia,Services,GDP,2022,9403.56
+Australia,Services,GDP,2023,4066.41
+Australia,Services,Inflation,2015,4.8
+Australia,Services,Inflation,2016,10.2
+Australia,Services,Inflation,2017,
+Australia,Services,Inflation,2018,7.93
+Australia,Services,Inflation,2019,13.09
+Australia,Services,Inflation,2020,1.15
+Australia,Services,Inflation,2021,2.85
+Australia,services,Inflation,2022,14.65
+Australia,Services,Inflation,2023,12.88
+Australia,Services,Unemployment,2015,4097.71
+Australia,Services,Unemployment,2016,4543.97
+Australia,Services,Unemployment ,2017,7582.55
+Australia,Services,Unemployment,2018,9145.14
+Australia,Services,Unemployment,2019,3899.71
+Australia,Services,Unemployment,2020,8724.3
+Australia,Services,Unemployment,2021,2074.28
+Australia,Services,Unemployment,2022,2169.27
+Australia,Services,Unemployment,2023,9732.03
+Australia,Services,Export Value,2015,513.07
+Australia,Services,Export Value,2016,4533.84
+Australia,Services,Export Value,2017,655.13
+Australia,Services,Export Value,2018,446.52
+Australia,Services,Export Value,2019,1068.25
+Australia,Services,Export Value,2020,6521.1
+Australia,Services,Export Value,2021,5732.0
+Australia,Services,Export Value,2022,7543.0
+Australia,Services,Export Value,2023,747.26
+Australia,Services,Import Value,2015,9339.22
+Australia,Services,Import Value,2016,5512.85
+Australia,Services,Import Value,2017,7243.85
+Australia,Services,Import Value,2018,3551.33
+Australia,Services,Import Value,2019,6393.64
+Australia,Services,Import Value,2020,1042.65
+Australia,Services,Import Value,2021,1303.48
+Australia,Services,Import Value,2022,
+Australia,Services,Import Value,2023,3900.81
+Australia,Technology,GDP,2015,283.04
+Australia,Technology,GDP,2016,7051.72
+Australia,Technology,GDP,2017,479.14
+Australia,Technology,GDP,2018,2769.81
+Australia,Technology,GDP,2019,8777.76
+Australia,Technology,GDP,2020,9660.21
+Australia,Technology,GDP ,2021,1478.69
+Australia,Technology,GDP,2022,260.96
+Australia,Technology,GDP,2023,5551.38
+Australia,Technology,Inflation ,2015,5.93
+Australia,Technology,Inflation,2016,1.67
+Australia,Technology,Inflation,2017,8.77
+Australia,Technology,Inflation,2018,13.93
+Australia,Technology,Inflation,2019,10.23
+Australia,Technology,Inflation,2020,10.65
+Australia,Technology,Inflation,2021,1.13
+Australia,Technology,Inflation,2022,6.66
+Australia,Technology,Inflation,2023,8.1
+Australia,Technology,Unemployment,2015,4733.96
+Australia,Technology,Unemployment,2016,4718.86
+Australia,Technology,Unemployment,2017,6461.11
+Australia,Technology,Unemployment,2018,2868.52
+Australia,Technology,Unemployment,2019,8452.56
+Australia,Technology,Unemployment,2020,3801.34
+Australia,Technology,Unemployment,2021,4575.5
+Australia,Technology,Unemployment,2022,857.17
+Australia,Technology,Unemployment,2023,1029.29
+Australia,Technology,Export Value,2015,5815.31
+Australia,Technology,Export Value,2016,2870.44
+Australia,Technology,Export Value ,2017,8857.64
+Australia,Technology,Export Value,2018,329.28
+Australia,Technology,Export Value,2019,5689.23
+Australia,Technology,Export Value,2020,5215.2
+Australia,Technology,Export Value ,2021,4157.46
+Australia,Technology,Export Value,2022,1451.9
+Australia,Technology,Export Value,2023,4750.09
+Australia,Technology,Import Value,2015,6180.57
+Australia,Technology,Import Value,2016,3757.09
+Australia,Technology,Import Value,2017,903.27
+Australia,Technology,Import Value,2018,8301.6
+Australia,Technology,Import Value,2019,3785.13
+Australia,Technology,Import Value,2020,3202.21
+Australia,Technology,Import Value,2021,5081.8
+Australia,Technology,Import Value,2022,3086.93
+Australia,Technology,Import Value,2023,9220.75
+Australia,energy,GDP,2015,4078.86
+Australia,energy,GDP,2016,
+Australia,Energy,GDP,2017,
+Australia,Energy,GDP,2018,5833.83
+Australia,Energy,GDP,2019,4815.92
+Australia,Energy,GDP,2020,665.09
+Australia,energy,GDP,2021,5345.78
+Australia,Energy,GDP,2022,4609.82
+Australia,Energy,GDP,2023,3230.79
+Australia,Energy,Inflation,2015,1.69
+Australia,Energy,Inflation,2016,10.74
+Australia,Energy,Inflation,2017,5.05
+Australia,Energy,Inflation,2018,6.97
+Australia,Energy,Inflation,2019,8.45
+Australia,Energy,Inflation,2020,6.93
+Australia,Energy,Inflation,2021,5.63
+Australia,Energy,Inflation,2022,6.79
+Australia,Energy,Inflation,2023,11.77
+Australia,Energy,Unemployment,2015,7893.13
+Australia,Energy,Unemployment,2016,7940.57
+Australia,Energy,Unemployment,2017,491.91
+Australia,Energy,Unemployment ,2018,7639.95
+Australia,Energy,Unemployment,2019,3311.84
+Australia,Energy,Unemployment,2020,3646.93
+Australia,Energy,Unemployment,2021,2367.91
+Australia,Energy,Unemployment,2022,2978.09
+Australia,energy,Unemployment,2023,1932.74
+Australia,Energy,Export Value,2015,2891.17
+Australia,Energy,Export Value,2016,1519.89
+Australia,Energy,Export Value,2017,9196.52
+Australia,Energy,Export Value,2018,9446.36
+Australia,Energy,Export Value,2019,2971.78
+Australia,Energy,Export Value,2020,4051.16
+Australia,Energy,Export Value,2021,2030.36
+Australia,Energy,Export Value,2022,6808.42
+Australia,Energy,Export Value,2023,3421.34
+Australia,Energy,Import Value,2015,9575.52
+Australia,Energy,Import Value,2016,9553.86
+Australia,Energy,Import Value,2017,7940.95
+Australia,Energy,Import Value,2018,9190.5
+Australia,Energy,Import Value,2019,3905.56
+Australia,Energy,Import Value,2020,384.87
+Australia,Energy,Import Value,2021,8976.08
+Australia,Energy,Import Value,2022,101.36
+Australia,Energy,Import Value,2023,864.19
+Japan,Agriculture,GDP,2015,
+Japan,Agriculture,GDP,2016,8638.2
+Japan,Agriculture,GDP,2017,9577.08
+Japan,Agriculture,GDP,2018,4391.19
+Japan,Agriculture,GDP,2019,1533.31
+Japan,agriculture,GDP,2020,4870.58
+Japan,agriculture,GDP,2021,5969.47
+Japan,Agriculture,GDP,2022,6661.99
+Japan,Agriculture,GDP,2023,2656.16
+Japan,Agriculture,Inflation,2015,9.17
+Japan,Agriculture,Inflation,2016,9.47
+Japan,Agriculture,Inflation,2017,8.09
+Japan,Agriculture,Inflation,2018,13.96
+Japan,Agriculture,Inflation,2019,2.51
+Japan,Agriculture,Inflation,2020,11.09
+Japan,Agriculture,Inflation,2021,2.04
+Japan,Agriculture,Inflation,2022,9.28
+Japan,Agriculture,Inflation,2023,13.46
+Japan,agriculture,Unemployment,2015,3219.97
+Japan,Agriculture,Unemployment,2016,
+Japan,Agriculture,Unemployment,2017,1021.3
+Japan,Agriculture,Unemployment,2018,6537.82
+Japan,Agriculture,Unemployment,2019,3800.81
+Japan,Agriculture,Unemployment,2020,794.96
+Japan,Agriculture,Unemployment,2021,7436.27
+Japan,Agriculture,Unemployment,2022,1452.96
+Japan,Agriculture,Unemployment,2023,6465.28
+Japan,Agriculture,Export Value,2015,1745.48
+Japan,Agriculture,Export Value,2016,9681.15
+Japan,Agriculture,Export Value,2017,6401.04
+Japan,Agriculture,Export Value,2018,9571.04
+Japan,Agriculture,Export Value ,2019,1398.04
+Japan,Agriculture,Export Value,2020,
+Japan,Agriculture,Export Value,2021,8621.89
+Japan,Agriculture,Export Value,2022,9905.19
+Japan,Agriculture,Export Value,2023,5446.91
+Japan,Agriculture,Import Value,2015,3579.45
+Japan,Agriculture,Import Value,2016,9841.67
+Japan,Agriculture,Import Value,2017,6746.12
+Japan,Agriculture,Import Value,2018,2691.98
+Japan,Agriculture,Import Value,2019,4846.37
+Japan,Agriculture,Import Value,2020,6509.91
+Japan,Agriculture,Import Value,2021,713.32
+Japan,Agriculture,Import Value,2022,2406.46
+Japan,Agriculture,Import Value,2023,2797.98
+Japan,Manufacturing,GDP,2015,1435.34
+Japan,Manufacturing,GDP,2016,1468.89
+Japan,Manufacturing,GDP,2017,8869.3
+Japan,Manufacturing,GDP,2018,9193.87
+Japan,Manufacturing,GDP,2019,482.89
+Japan,Manufacturing,GDP,2020,1334.21
+Japan,Manufacturing,GDP,2021,6861.57
+Japan,Manufacturing,GDP,2022,2602.72
+Japan,Manufacturing,GDP,2023,9572.18
+Japan,Manufacturing,Inflation,2015,4.18
+Japan,Manufacturing,Inflation,2016,12.25
+Japan,Manufacturing,Inflation,2017,6.77
+Japan,Manufacturing,Inflation,2018,0.56
+Japan,Manufacturing,Inflation,2019,12.89
+Japan,Manufacturing,Inflation,2020,1.02
+Japan,manufacturing,Inflation,2021,12.05
+Japan,Manufacturing,Inflation,2022,14.56
+Japan,Manufacturing,Inflation,2023,0.86
+Japan,Manufacturing,Unemployment,2015,9969.4
+Japan,Manufacturing,Unemployment,2016,6654.22
+Japan,Manufacturing,Unemployment,2017,3814.59
+Japan,Manufacturing,Unemployment,2018,7620.57
+Japan,Manufacturing,Unemployment,2019,3458.34
+Japan,Manufacturing,Unemployment,2020,5689.65
+Japan,Manufacturing,Unemployment,2021,8839.25
+Japan,Manufacturing,Unemployment,2022,3265.25
+Japan,Manufacturing,Unemployment,2023,6444.59
+Japan,Manufacturing,Export Value,2015,1146.8
+Japan,Manufacturing,Export Value,2016,2732.99
+Japan,Manufacturing,Export Value,2017,5805.83
+Japan,Manufacturing,Export Value,2018,246.22
+Japan,Manufacturing,Export Value,2019,2518.4
+Japan,Manufacturing,Export Value,2020,7464.83
+Japan,Manufacturing,Export Value,2021,2830.35
+Japan,Manufacturing,Export Value,2022,7315.39
+Japan,Manufacturing,Export Value,2023,1067.06
+Japan,Manufacturing,Import Value,2015,587.89
+Japan,Manufacturing,Import Value,2016,
+Japan,Manufacturing,Import Value,2017,4013.62
+Japan,Manufacturing,Import Value ,2018,
+Japan,Manufacturing,Import Value,2019,5671.21
+Japan,Manufacturing,Import Value,2020,102.82
+Japan,Manufacturing,Import Value,2021,3316.97
+Japan,Manufacturing,Import Value,2022,484.26
+Japan,manufacturing,Import Value,2023,1317.13
+Japan,Services,GDP,2015,6697.9
+Japan,Services,GDP,2016,2895.79
+Japan,Services,GDP,2017,9629.4
+Japan,services,GDP,2018,7774.9
+Japan,Services,GDP,2019,1677.68
+Japan,Services,GDP,2020,6276.78
+Japan,Services,GDP,2021,2289.76
+Japan,Services,GDP,2022,8778.05
+Japan,Services,GDP,2023,6938.64
+Japan,Services,Inflation,2015,10.8
+Japan,Services,Inflation,2016,13.04
+Japan,Services,Inflation,2017,14.01
+Japan,Services,Inflation,2018,4.46
+Japan,Services,Inflation,2019,8.39
+Japan,Services,Inflation,2020,5.17
+Japan,Services,Inflation,2021,4.2
+Japan,Services,Inflation,2022,1.93
+Japan,Services,Inflation,2023,11.07
+Japan,Services,Unemployment,2015,9483.01
+Japan,Services,Unemployment,2016,9143.88
+Japan,Services,Unemployment,2017,2164.9
+Japan,Services,Unemployment,2018,6555.17
+Japan,Services,Unemployment,2019,3181.13
+Japan,Services,Unemployment,2020,1135.25
+Japan,Services,Unemployment,2021,
+Japan,Services,Unemployment,2022,2371.8
+Japan,Services,Unemployment ,2023,9000.15
+Japan,Services,Export Value,2015,701.3
+Japan,Services,Export Value,2016,9096.6
+Japan,Services,Export Value,2017,3448.17
+Japan,Services,Export Value,2018,8646.64
+Japan,Services,Export Value,2019,280.86
+Japan,Services,Export Value,2020,6399.92
+Japan,Services,Export Value,2021,7160.04
+Japan,Services,Export Value,2022,3155.48
+Japan,Services,Export Value,2023,8076.07
+Japan,Services,Import Value,2015,5199.94
+Japan,Services,Import Value,2016,7754.52
+Japan,Services,Import Value,2017,216.6
+Japan,Services,Import Value,2018,3073.81
+Japan,Services,Import Value,2019,4101.8
+Japan,Services,Import Value,2020,
+Japan,Services,Import Value,2021,2752.28
+Japan,Services,Import Value ,2022,2109.62
+Japan,Services,Import Value,2023,5281.07
+Japan,Technology,GDP,2015,310.31
+Japan,Technology,GDP,2016,1439.56
+Japan,Technology,GDP,2017,8727.12
+Japan,Technology,GDP,2018,2036.53
+Japan,Technology,GDP,2019,
+Japan,Technology,GDP,2020,6826.1
+Japan,Technology,GDP,2021,3366.98
+Japan,Technology,GDP,2022,
+Japan,Technology,GDP,2023,9692.07
+Japan,Technology,Inflation,2015,14.0
+Japan,Technology,Inflation,2016,14.98
+Japan,Technology,Inflation,2017,12.53
+Japan,Technology,Inflation,2018,6.01
+Japan,Technology,Inflation,2019,7.62
+Japan,Technology,Inflation,2020,14.04
+Japan,Technology,Inflation,2021,11.04
+Japan,Technology,Inflation,2022,5.39
+Japan,Technology,Inflation,2023,14.41
+Japan,technology,Unemployment,2015,8162.54
+Japan,Technology,Unemployment,2016,6331.19
+Japan,Technology,Unemployment,2017,7509.85
+Japan,Technology,Unemployment,2018,6693.63
+Japan,Technology,Unemployment,2019,2592.09
+Japan,Technology,Unemployment,2020,4269.57
+Japan,Technology,Unemployment,2021,672.79
+Japan,Technology,Unemployment,2022,2379.81
+Japan,Technology,Unemployment,2023,9854.23
+Japan,Technology,Export Value,2015,7976.79
+Japan,Technology,Export Value,2016,8724.18
+Japan,Technology,Export Value,2017,4547.68
+Japan,Technology,Export Value,2018,1594.52
+Japan,Technology,Export Value,2019,4741.23
+Japan,Technology,Export Value,2020,7021.62
+Japan,Technology,Export Value,2021,9113.13
+Japan,Technology,Export Value,2022,8090.11
+Japan,Technology,Export Value,2023,4779.2
+Japan,Technology,Import Value,2015,8006.32
+Japan,Technology,Import Value,2016,3103.61
+Japan,Technology,Import Value,2017,9643.32
+Japan,Technology,Import Value,2018,
+Japan,Technology,Import Value,2019,5526.89
+Japan,Technology,Import Value,2020,3154.29
+Japan,Technology,Import Value,2021,3171.14
+Japan,Technology,Import Value,2022,9555.92
+Japan,Technology,Import Value,2023,6533.25
+Japan,Energy,GDP,2015,904.51
+Japan,Energy,GDP,2016,7466.24
+Japan,Energy,GDP,2017,9268.7
+Japan,Energy,GDP,2018,2713.0
+Japan,Energy,GDP,2019,4675.85
+Japan,Energy,GDP,2020,3385.19
+Japan,Energy,GDP,2021,4544.1
+Japan,Energy,GDP,2022,1713.86
+Japan,Energy,GDP,2023,3209.31
+Japan,Energy,Inflation,2015,14.55
+Japan,Energy,Inflation,2016,1.93
+Japan,Energy,Inflation,2017,14.89
+Japan,Energy,Inflation,2018,12.23
+Japan,Energy,Inflation,2019,0.52
+Japan,Energy,Inflation,2020,9.06
+Japan,Energy,Inflation,2021,4.45
+Japan,Energy,Inflation,2022,2.1
+Japan,Energy,Inflation,2023,2.73
+Japan,Energy,Unemployment,2015,5125.42
+Japan,Energy,Unemployment,2016,8381.5
+Japan,Energy,Unemployment,2017,7829.67
+Japan,Energy,Unemployment,2018,7280.87
+Japan,Energy,Unemployment,2019,4156.41
+Japan,Energy,Unemployment,2020,5370.32
+Japan,Energy,Unemployment,2021,9216.79
+Japan,Energy,Unemployment,2022,8479.29
+Japan,Energy,Unemployment,2023,3845.63
+Japan,Energy,Export Value,2015,7980.96
+Japan,Energy,Export Value,2016,4529.69
+Japan,Energy,Export Value,2017,2565.2
+Japan,Energy,Export Value,2018,6345.35
+Japan,Energy,Export Value,2019,9159.82
+Japan,Energy,Export Value,2020,9178.98
+Japan,Energy,Export Value,2021,8528.43
+Japan,Energy,Export Value,2022,5470.26
+Japan,Energy,Export Value,2023,1275.78
+Japan,Energy,Import Value,2015,1076.64
+Japan,Energy,Import Value ,2016,4790.01
+Japan,Energy,Import Value,2017,
+Japan,Energy,Import Value,2018,7967.4
+Japan,Energy,Import Value,2019,2115.99
+Japan,Energy,Import Value,2020,7195.01
+Japan,Energy,Import Value,2021,2569.85
+Japan,Energy,Import Value,2022,6460.51
+Japan,Energy,Import Value,2023,8244.63
+South Africa,Agriculture,GDP,2015,9975.91
+South Africa,Agriculture,GDP,2016,9937.33
+South Africa,Agriculture,GDP,2017,1787.98
+South Africa,Agriculture,GDP,2018,4292.28
+South Africa,Agriculture,GDP,2019,5978.13
+South Africa,Agriculture,GDP,2020,2652.46
+South Africa,Agriculture,GDP,2021,7934.72
+South Africa,Agriculture,GDP,2022,2767.31
+South Africa,Agriculture,GDP,2023,
+South Africa,Agriculture,Inflation,2015,1.0
+South Africa,Agriculture,Inflation,2016,2.49
+South Africa,Agriculture,Inflation,2017,6.45
+South Africa,Agriculture,Inflation,2018,5.54
+South Africa,Agriculture,Inflation,2019,6.75
+South_Africa,Agriculture,Inflation,2020,10.32
+South Africa,agriculture,Inflation,2021,12.74
+South Africa,Agriculture,Inflation ,2022,9.82
+South Africa,Agriculture,Inflation,2023,7.22
+South Africa,Agriculture,Unemployment,2015,5140.13
+South Africa,Agriculture,Unemployment,2016,9907.27
+South Africa,agriculture,Unemployment,2017,9914.38
+South Africa,Agriculture,Unemployment,2018,323.9
+South Africa,Agriculture,Unemployment,2019,5478.68
+South Africa,Agriculture,Unemployment,2020,2200.53
+South Africa,Agriculture,Unemployment,2021,2502.02
+South_Africa,Agriculture,Unemployment,2022,8193.13
+South Africa,Agriculture,Unemployment ,2023,4246.86
+South Africa,Agriculture,Export Value,2015,3903.66
+South Africa,Agriculture,Export Value,2016,509.28
+South Africa,Agriculture,Export Value,2017,9154.54
+South_Africa,Agriculture,Export Value,2018,7228.5
+South_Africa,agriculture,Export Value,2019,8246.47
+South Africa,Agriculture,Export Value,2020,4866.28
+South Africa,Agriculture,Export Value,2021,5395.34
+South Africa,Agriculture,Export Value,2022,4939.7
+South Africa,Agriculture,Export Value,2023,2545.65
+South Africa,Agriculture,Import Value,2015,2643.68
+South Africa,Agriculture,Import Value,2016,
+South Africa,agriculture,Import Value,2017,4121.33
+South_Africa,Agriculture,Import Value,2018,4576.13
+South Africa,Agriculture,Import Value,2019,6441.45
+South Africa,Agriculture,Import Value,2020,4933.42
+South Africa,agriculture,Import Value,2021,3250.7
+South Africa,Agriculture,Import Value,2022,
+South Africa,Agriculture,Import Value,2023,9170.36
+South Africa,Manufacturing,GDP,2015,9208.02
+South Africa,Manufacturing,GDP,2016,7853.19
+South Africa,manufacturing,GDP,2017,1027.4
+South Africa,Manufacturing,GDP,2018,7622.72
+South Africa,Manufacturing,GDP,2019,3894.74
+South Africa,Manufacturing,GDP,2020,4355.26
+South Africa,Manufacturing,GDP,2021,5034.85
+South Africa,Manufacturing,GDP,2022,1901.34
+South Africa,Manufacturing,GDP,2023,8463.03
+South Africa,Manufacturing,Inflation,2015,5.07
+South Africa,Manufacturing,Inflation,2016,8.11
+South Africa,Manufacturing,Inflation,2017,9.17
+South Africa,Manufacturing,Inflation,2018,9.01
+South Africa,Manufacturing,Inflation,2019,11.68
+South Africa,manufacturing,Inflation,2020,8.96
+South Africa,Manufacturing,Inflation,2021,13.96
+South Africa,Manufacturing,Inflation,2022,6.36
+South Africa,Manufacturing,Inflation,2023,
+South Africa,manufacturing,Unemployment,2015,6199.98
+South Africa,Manufacturing,Unemployment,2016,5122.89
+South Africa,Manufacturing,Unemployment,2017,5241.43
+South Africa,Manufacturing,Unemployment,2018,1102.55
+South Africa,Manufacturing,Unemployment,2019,6524.23
+South Africa,Manufacturing,Unemployment,2020,6737.59
+South Africa,Manufacturing,Unemployment,2021,5333.93
+South Africa,Manufacturing,Unemployment,2022,9693.57
+South Africa,Manufacturing,Unemployment,2023,8430.48
+South Africa,Manufacturing,Export Value,2015,9838.41
+South Africa,Manufacturing,Export Value,2016,4392.39
+South Africa,Manufacturing,Export Value,2017,
+South Africa,Manufacturing,Export Value,2018,785.23
+South Africa,Manufacturing,Export Value,2019,4477.41
+South Africa,Manufacturing,Export Value,2020,1825.67
+South Africa,Manufacturing,Export Value,2021,3296.0
+South Africa,Manufacturing,Export Value,2022,8656.84
+South Africa,Manufacturing,Export Value ,2023,724.5
+South Africa,Manufacturing,Import Value,2015,454.6
+South Africa,Manufacturing,Import Value,2016,568.01
+South Africa,Manufacturing,Import Value,2017,1265.5
+South Africa,Manufacturing,Import Value,2018,8518.36
+South Africa,Manufacturing,Import Value,2019,8020.36
+South Africa,Manufacturing,Import Value,2020,8120.43
+South Africa,Manufacturing,Import Value,2021,6092.95
+South Africa,Manufacturing,Import Value,2022,556.86
+South Africa,Manufacturing,Import Value,2023,4812.58
+South Africa,Services,GDP,2015,3448.31
+South Africa,Services,GDP,2016,1585.67
+South Africa,Services,GDP,2017,5854.05
+South Africa,Services,GDP,2018,7701.79
+South Africa,Services,GDP,2019,391.8
+South Africa,Services,GDP,2020,7550.39
+South Africa,Services,GDP,2021,4914.77
+South Africa,Services,GDP,2022,7996.21
+South Africa,Services,GDP,2023,4155.81
+South_Africa,Services,Inflation,2015,12.29
+South Africa,services,Inflation,2016,14.31
+South Africa,Services,Inflation,2017,14.18
+South Africa,Services,Inflation,2018,12.66
+South Africa,Services,Inflation,2019,7.74
+South Africa,Services,Inflation,2020,
+South Africa,Services,Inflation,2021,3.88
+South Africa,Services,Inflation,2022,
+South Africa,Services,Inflation,2023,11.3
+South Africa,Services,Unemployment,2015,3663.55
+South Africa,Services,Unemployment,2016,8168.54
+South Africa,Services,Unemployment,2017,7676.39
+South Africa,Services,Unemployment,2018,1600.81
+South Africa,Services,Unemployment,2019,7105.14
+South Africa,Services,Unemployment,2020,3621.11
+South Africa,Services,Unemployment,2021,8228.32
+South Africa,Services,Unemployment,2022,5802.02
+South Africa,services,Unemployment,2023,9606.93
+South Africa,Services,Export Value,2015,429.44
+South Africa,Services,Export Value,2016,4952.06
+South Africa,Services,Export Value,2017,3746.97
+South Africa,services,Export Value ,2018,2032.04
+South Africa,Services,Export Value,2019,
+South Africa,Services,Export Value,2020,320.54
+South Africa,Services,Export Value,2021,3295.27
+South Africa,Services,Export Value,2022,2097.35
+South Africa,Services,Export Value,2023,2446.02
+South Africa,Services,Import Value,2015,2164.61
+South Africa,Services,Import Value,2016,3626.52
+South Africa,services,Import Value,2017,3463.0
+South Africa,Services,Import Value,2018,5912.25
+South Africa,services,Import Value,2019,9020.36
+South Africa,Services,Import Value,2020,
+South Africa,Services,Import Value,2021,3687.03
+South Africa,Services,Import Value,2022,1288.93
+South Africa,Services,Import Value,2023,2754.94
+South Africa,Technology,GDP,2015,9106.48
+South Africa,Technology,GDP,2016,8940.6
+South Africa,technology,GDP,2017,9098.96
+South Africa,Technology,GDP,2018,
+South Africa,Technology,GDP,2019,4732.69
+South Africa,Technology,GDP,2020,4518.59
+South Africa,Technology,GDP,2021,9114.51
+South Africa,Technology,GDP,2022,7732.79
+South Africa,technology,GDP,2023,246.81
+South Africa,Technology,Inflation,2015,4.47
+South Africa,Technology,Inflation,2016,0.54
+South Africa,Technology,Inflation,2017,0.97
+South Africa,Technology,Inflation,2018,9.99
+South Africa,Technology,Inflation,2019,13.84
+South Africa,Technology,Inflation,2020,2.74
+South Africa,Technology,Inflation,2021,
+South Africa,Technology,Inflation,2022,10.15
+South Africa,Technology,Inflation,2023,6.09
+South Africa,Technology,Unemployment,2015,2196.0
+South Africa,Technology,Unemployment,2016,6437.55
+South Africa,Technology,Unemployment,2017,2316.87
+South Africa,Technology,Unemployment,2018,2002.55
+South Africa,Technology,Unemployment,2019,1443.73
+South Africa,Technology,Unemployment,2020,8640.97
+South Africa,Technology,Unemployment,2021,389.16
+South Africa,Technology,Unemployment,2022,8681.42
+South Africa,Technology,Unemployment,2023,486.14
+South Africa,Technology,Export Value,2015,4138.59
+South Africa,Technology,Export Value,2016,8870.85
+South Africa,Technology,Export Value,2017,
+South Africa,Technology,Export Value,2018,7084.94
+South Africa,Technology,Export Value,2019,9442.34
+South Africa,Technology,Export Value,2020,8077.98
+South Africa,Technology,Export Value,2021,3798.37
+South_Africa,Technology,Export Value,2022,4997.32
+South Africa,Technology,Export Value,2023,825.54
+South Africa,Technology,Import Value,2015,5029.22
+South Africa,Technology,Import Value,2016,4779.42
+South Africa,Technology,Import Value,2017,6641.7
+South Africa,Technology,Import Value,2018,6998.72
+South Africa,Technology,Import Value,2019,8934.9
+South Africa,Technology,Import Value,2020,877.59
+South Africa,Technology,Import Value ,2021,3145.34
+South Africa,Technology,Import Value,2022,982.86
+South Africa,Technology,Import Value,2023,8294.05
+South Africa,Energy,GDP,2015,2226.3
+South Africa,Energy,GDP,2016,9758.57
+South Africa,Energy,GDP,2017,3555.18
+South Africa,Energy,GDP,2018,2275.55
+South Africa,Energy,GDP,2019,3039.48
+South Africa,Energy,GDP ,2020,2555.42
+South Africa,Energy,GDP,2021,3047.44
+South Africa,Energy,GDP,2022,4788.32
+South Africa,Energy,GDP,2023,425.49
+South Africa,Energy,Inflation,2015,10.44
+South Africa,Energy,Inflation,2016,12.18
+South Africa,Energy,Inflation,2017,11.14
+South Africa,Energy,Inflation,2018,8.11
+South Africa,Energy,Inflation,2019,0.94
+South Africa,Energy,Inflation,2020,
+South Africa,Energy,Inflation,2021,4.74
+South Africa,Energy,Inflation,2022,
+South Africa,energy,Inflation,2023,9.01
+South Africa,energy,Unemployment,2015,4190.68
+South Africa,Energy,Unemployment,2016,7699.19
+South Africa,Energy,Unemployment,2017,9350.62
+South Africa,Energy,Unemployment,2018,338.49
+South Africa,Energy,Unemployment,2019,1925.48
+South Africa,Energy,Unemployment,2020,7549.05
+South Africa,Energy,Unemployment,2021,1593.92
+South Africa,Energy,Unemployment,2022,7831.41
+South Africa,Energy,Unemployment,2023,8428.68
+South Africa,Energy,Export Value,2015,3133.29
+South Africa,Energy,Export Value,2016,8037.03
+South Africa,Energy,Export Value,2017,4098.33
+South Africa,Energy,Export Value,2018,8336.99
+South Africa,Energy,Export Value,2019,9995.73
+South Africa,Energy,Export Value,2020,7761.3
+South Africa,Energy,Export Value,2021,1917.07
+South Africa,Energy,Export Value,2022,3221.94
+South_Africa,Energy,Export Value,2023,7518.92
+South Africa,Energy,Import Value,2015,5432.59
+South Africa,Energy,Import Value,2016,672.52
+South Africa,Energy,Import Value,2017,1173.92
+South Africa,Energy,Import Value,2018,5617.35
+South Africa,Energy,Import Value,2019,4776.6
+South Africa,Energy,Import Value,2020,6131.39
+South Africa,Energy,Import Value,2021,3791.64
+South Africa,Energy,Import Value,2022,4812.02
+South Africa,Energy,Import Value,2023,1572.13
